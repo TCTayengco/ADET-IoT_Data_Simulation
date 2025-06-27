@@ -1,501 +1,841 @@
-timestamp,device_id,data_type,data_value,numeric_value
-2025-06-25 10:11:21,1,Temperature (°C),16.2,16.2
-2025-06-25 10:11:22,1,Humidity (%),55.27,55.27
-2025-06-25 10:11:24,1,Air Quality Index (AQI),60,60.0
-2025-06-25 10:11:25,1,Soil Moisture (%),40.31,40.31
-2025-06-25 10:11:26,1,Particulate Matter 2.5 (µg/m³),32.22,32.22
-2025-06-25 10:11:27,1,Particulate Matter 10 (µg/m³),35.57,35.57
-2025-06-25 10:11:28,1,Ozone Concentration (ppm),0.0301,0.0301
-2025-06-25 10:11:29,1,Nitrogen Dioxide (ppm),0.0191,0.0191
-2025-06-25 10:11:30,1,Sulfur Dioxide (ppm),0.0145,0.0145
-2025-06-25 10:11:31,1,Carbon Monoxide (ppm),0.62,0.62
-2025-06-25 10:11:32,1,Temperature (°C),16.95,16.95
-2025-06-25 10:11:33,1,Humidity (%),66.36,66.36
-2025-06-25 10:11:34,1,Air Quality Index (AQI),67,67.0
-2025-06-25 10:11:35,1,Soil Moisture (%),37.16,37.16
-2025-06-25 10:11:36,1,Particulate Matter 2.5 (µg/m³),29.54,29.54
-2025-06-25 10:11:38,1,Particulate Matter 10 (µg/m³),38.83,38.83
-2025-06-25 10:11:39,1,Ozone Concentration (ppm),0.015,0.015
-2025-06-25 10:11:40,1,Nitrogen Dioxide (ppm),0.0185,0.0185
-2025-06-25 10:11:41,1,Sulfur Dioxide (ppm),0.0133,0.0133
-2025-06-25 10:11:42,1,Carbon Monoxide (ppm),0.69,0.69
-2025-06-25 10:11:43,1,Temperature (°C),21.37,21.37
-2025-06-25 10:11:44,1,Humidity (%),66.04,66.04
-2025-06-25 10:11:45,1,Air Quality Index (AQI),77,77.0
-2025-06-25 10:11:46,1,Soil Moisture (%),39.44,39.44
-2025-06-25 10:11:47,1,Particulate Matter 2.5 (µg/m³),34.45,34.45
-2025-06-25 10:11:48,1,Particulate Matter 10 (µg/m³),37.23,37.23
-2025-06-25 10:11:49,1,Ozone Concentration (ppm),0.031,0.031
-2025-06-25 10:11:51,1,Nitrogen Dioxide (ppm),0.0214,0.0214
-2025-06-25 10:11:52,1,Sulfur Dioxide (ppm),0.0142,0.0142
-2025-06-25 10:11:53,1,Carbon Monoxide (ppm),0.73,0.73
-2025-06-25 10:11:54,1,Temperature (°C),20.09,20.09
-2025-06-25 10:11:55,1,Humidity (%),60.5,60.5
-2025-06-25 10:11:56,1,Air Quality Index (AQI),79,79.0
-2025-06-25 10:11:57,1,Soil Moisture (%),41.53,41.53
-2025-06-25 10:11:58,1,Particulate Matter 2.5 (µg/m³),34.94,34.94
-2025-06-25 10:11:59,1,Particulate Matter 10 (µg/m³),52.68,52.68
-2025-06-25 10:12:00,1,Ozone Concentration (ppm),0.0335,0.0335
-2025-06-25 10:12:01,1,Nitrogen Dioxide (ppm),0.0305,0.0305
-2025-06-25 10:12:02,1,Sulfur Dioxide (ppm),0.016,0.016
-2025-06-25 10:12:04,1,Carbon Monoxide (ppm),0.76,0.76
-2025-06-25 10:12:05,1,Temperature (°C),21.6,21.6
-2025-06-25 10:12:06,1,Humidity (%),56.1,56.1
-2025-06-25 10:12:07,1,Air Quality Index (AQI),78,78.0
-2025-06-25 10:12:08,1,Soil Moisture (%),38.3,38.3
-2025-06-25 10:12:09,1,Particulate Matter 2.5 (µg/m³),32.13,32.13
-2025-06-25 10:12:10,1,Particulate Matter 10 (µg/m³),52.42,52.42
-2025-06-25 10:12:11,1,Ozone Concentration (ppm),0.0291,0.0291
-2025-06-25 10:12:12,1,Nitrogen Dioxide (ppm),0.0244,0.0244
-2025-06-25 10:12:13,1,Sulfur Dioxide (ppm),0.016,0.016
-2025-06-25 10:12:14,1,Carbon Monoxide (ppm),0.67,0.67
-2025-06-25 10:12:15,1,Temperature (°C),25.97,25.97
-2025-06-25 10:12:17,1,Humidity (%),54.55,54.55
-2025-06-25 10:12:18,1,Air Quality Index (AQI),95,95.0
-2025-06-25 10:12:19,1,Soil Moisture (%),39.68,39.68
-2025-06-25 10:12:20,1,Particulate Matter 2.5 (µg/m³),41.24,41.24
-2025-06-25 10:12:21,1,Particulate Matter 10 (µg/m³),38.28,38.28
-2025-06-25 10:12:22,1,Ozone Concentration (ppm),0.034,0.034
-2025-06-25 10:12:23,1,Nitrogen Dioxide (ppm),0.0199,0.0199
-2025-06-25 10:12:24,1,Sulfur Dioxide (ppm),0.0193,0.0193
-2025-06-25 10:12:25,1,Carbon Monoxide (ppm),0.67,0.67
-2025-06-25 10:12:26,1,Temperature (°C),26.16,26.16
-2025-06-25 10:12:27,1,Humidity (%),50.23,50.23
-2025-06-25 10:12:28,1,Air Quality Index (AQI),101,101.0
-2025-06-25 10:12:30,1,Soil Moisture (%),35.24,35.24
-2025-06-25 10:12:31,1,Particulate Matter 2.5 (µg/m³),33.89,33.89
-2025-06-25 10:12:32,1,Particulate Matter 10 (µg/m³),59.81,59.81
-2025-06-25 10:12:33,1,Ozone Concentration (ppm),0.0343,0.0343
-2025-06-25 10:12:34,1,Nitrogen Dioxide (ppm),0.0236,0.0236
-2025-06-25 10:12:35,1,Sulfur Dioxide (ppm),0.0146,0.0146
-2025-06-25 10:12:36,1,Carbon Monoxide (ppm),0.73,0.73
-2025-06-25 10:12:37,1,Temperature (°C),24.42,24.42
-2025-06-25 10:12:38,1,Humidity (%),49.8,49.8
-2025-06-25 10:12:39,1,Air Quality Index (AQI),90,90.0
-2025-06-25 10:12:40,1,Soil Moisture (%),30.45,30.45
-2025-06-25 10:12:41,1,Particulate Matter 2.5 (µg/m³),42.89,42.89
-2025-06-25 10:12:42,1,Particulate Matter 10 (µg/m³),54.48,54.48
-2025-06-25 10:12:44,1,Ozone Concentration (ppm),0.0376,0.0376
-2025-06-25 10:12:45,1,Nitrogen Dioxide (ppm),0.0159,0.0159
-2025-06-25 10:12:46,1,Sulfur Dioxide (ppm),0.0139,0.0139
-2025-06-25 10:12:47,1,Carbon Monoxide (ppm),0.74,0.74
-2025-06-25 10:12:48,1,Temperature (°C),21.89,21.89
-2025-06-25 10:12:49,1,Humidity (%),63.7,63.7
-2025-06-25 10:12:50,1,Air Quality Index (AQI),78,78.0
-2025-06-25 10:12:51,1,Soil Moisture (%),44.5,44.5
-2025-06-25 10:12:52,1,Particulate Matter 2.5 (µg/m³),33.17,33.17
-2025-06-25 10:12:53,1,Particulate Matter 10 (µg/m³),60.52,60.52
-2025-06-25 10:12:54,1,Ozone Concentration (ppm),0.0356,0.0356
-2025-06-25 10:12:55,1,Nitrogen Dioxide (ppm),0.018,0.018
-2025-06-25 10:12:56,1,Sulfur Dioxide (ppm),0.0149,0.0149
-2025-06-25 10:12:58,1,Carbon Monoxide (ppm),0.72,0.72
-2025-06-25 10:12:59,1,Temperature (°C),21.62,21.62
-2025-06-25 10:13:00,1,Humidity (%),53.08,53.08
-2025-06-25 10:13:01,1,Air Quality Index (AQI),57,57.0
-2025-06-25 10:13:02,1,Soil Moisture (%),49.42,49.42
-2025-06-25 10:13:03,1,Particulate Matter 2.5 (µg/m³),41.03,41.03
-2025-06-25 10:13:04,1,Particulate Matter 10 (µg/m³),34.26,34.26
-2025-06-25 10:13:05,1,Ozone Concentration (ppm),0.028,0.028
-2025-06-25 10:13:06,1,Nitrogen Dioxide (ppm),0.0251,0.0251
-2025-06-25 10:13:07,1,Sulfur Dioxide (ppm),0.0142,0.0142
-2025-06-25 10:13:08,1,Carbon Monoxide (ppm),0.68,0.68
-2025-06-25 10:13:10,1,Temperature (°C),21.8,21.8
-2025-06-25 10:13:11,1,Humidity (%),65.09,65.09
-2025-06-25 10:13:12,1,Air Quality Index (AQI),92,92.0
-2025-06-25 10:13:13,1,Soil Moisture (%),43.42,43.42
-2025-06-25 10:13:14,1,Particulate Matter 2.5 (µg/m³),43.89,43.89
-2025-06-25 10:13:15,1,Particulate Matter 10 (µg/m³),52.74,52.74
-2025-06-25 10:13:16,1,Ozone Concentration (ppm),0.0367,0.0367
-2025-06-25 10:13:17,1,Nitrogen Dioxide (ppm),0.0215,0.0215
-2025-06-25 10:13:18,1,Sulfur Dioxide (ppm),0.0144,0.0144
-2025-06-25 10:13:19,1,Carbon Monoxide (ppm),0.73,0.73
-2025-06-25 10:13:20,1,Temperature (°C),11.1,11.1
-2025-06-25 10:13:21,1,Humidity (%),65.35,65.35
-2025-06-25 10:13:22,1,Air Quality Index (AQI),51,51.0
-2025-06-25 10:13:23,1,Soil Moisture (%),42.86,42.86
-2025-06-25 10:13:25,1,Particulate Matter 2.5 (µg/m³),21.55,21.55
-2025-06-25 10:13:26,1,Particulate Matter 10 (µg/m³),47.66,47.66
-2025-06-25 10:13:27,1,Ozone Concentration (ppm),0.0198,0.0198
-2025-06-25 10:13:28,1,Nitrogen Dioxide (ppm),0.024,0.024
-2025-06-25 10:13:29,1,Sulfur Dioxide (ppm),0.0147,0.0147
-2025-06-25 10:13:30,1,Carbon Monoxide (ppm),0.75,0.75
-2025-06-25 10:13:31,2,Temperature (°C),11.18,11.18
-2025-06-25 10:13:32,2,Humidity (%),66.55,66.55
-2025-06-25 10:13:33,2,Air Quality Index (AQI),71,71.0
-2025-06-25 10:13:34,2,Soil Moisture (%),41.28,41.28
-2025-06-25 10:13:35,2,Particulate Matter 2.5 (µg/m³),27.87,27.87
-2025-06-25 10:13:36,2,Particulate Matter 10 (µg/m³),38.49,38.49
-2025-06-25 10:13:37,2,Ozone Concentration (ppm),0.0237,0.0237
-2025-06-25 10:13:39,2,Nitrogen Dioxide (ppm),0.0198,0.0198
-2025-06-25 10:13:40,2,Sulfur Dioxide (ppm),0.0113,0.0113
-2025-06-25 10:13:41,2,Carbon Monoxide (ppm),0.68,0.68
-2025-06-25 10:13:42,2,Temperature (°C),10.64,10.64
-2025-06-25 10:13:43,2,Humidity (%),62.2,62.2
-2025-06-25 10:13:44,2,Air Quality Index (AQI),81,81.0
-2025-06-25 10:13:45,2,Soil Moisture (%),57.03,57.03
-2025-06-25 10:13:46,2,Particulate Matter 2.5 (µg/m³),43.08,43.08
-2025-06-25 10:13:47,2,Particulate Matter 10 (µg/m³),47.14,47.14
-2025-06-25 10:13:48,2,Ozone Concentration (ppm),0.0261,0.0261
-2025-06-25 10:13:49,2,Nitrogen Dioxide (ppm),0.025,0.025
-2025-06-25 10:13:50,2,Sulfur Dioxide (ppm),0.0156,0.0156
-2025-06-25 10:13:52,2,Carbon Monoxide (ppm),0.51,0.51
-2025-06-25 10:13:53,2,Temperature (°C),14.93,14.93
-2025-06-25 10:13:54,2,Humidity (%),62.93,62.93
-2025-06-25 10:13:55,2,Air Quality Index (AQI),79,79.0
-2025-06-25 10:13:56,2,Soil Moisture (%),35.77,35.77
-2025-06-25 10:13:57,2,Particulate Matter 2.5 (µg/m³),38.0,38.0
-2025-06-25 10:13:58,2,Particulate Matter 10 (µg/m³),46.32,46.32
-2025-06-25 10:13:59,2,Ozone Concentration (ppm),0.031,0.031
-2025-06-25 10:14:00,2,Nitrogen Dioxide (ppm),0.0209,0.0209
-2025-06-25 10:14:01,2,Sulfur Dioxide (ppm),0.0139,0.0139
-2025-06-25 10:14:02,2,Carbon Monoxide (ppm),0.75,0.75
-2025-06-25 10:14:03,2,Temperature (°C),14.0,14.0
-2025-06-25 10:14:05,2,Humidity (%),54.7,54.7
-2025-06-25 10:14:06,2,Air Quality Index (AQI),79,79.0
-2025-06-25 10:14:07,2,Soil Moisture (%),42.75,42.75
-2025-06-25 10:14:08,2,Particulate Matter 2.5 (µg/m³),36.81,36.81
-2025-06-25 10:14:09,2,Particulate Matter 10 (µg/m³),62.4,62.4
-2025-06-25 10:14:10,2,Ozone Concentration (ppm),0.0265,0.0265
-2025-06-25 10:14:11,2,Nitrogen Dioxide (ppm),0.0242,0.0242
-2025-06-25 10:14:12,2,Sulfur Dioxide (ppm),0.0141,0.0141
-2025-06-25 10:14:13,2,Carbon Monoxide (ppm),0.7,0.7
-2025-06-25 10:14:14,2,Temperature (°C),15.42,15.42
-2025-06-25 10:14:15,2,Humidity (%),62.34,62.34
-2025-06-25 10:14:16,2,Air Quality Index (AQI),95,95.0
-2025-06-25 10:14:17,2,Soil Moisture (%),40.3,40.3
-2025-06-25 10:14:19,2,Particulate Matter 2.5 (µg/m³),26.96,26.96
-2025-06-25 10:14:20,2,Particulate Matter 10 (µg/m³),53.33,53.33
-2025-06-25 10:14:21,2,Ozone Concentration (ppm),0.0318,0.0318
-2025-06-25 10:14:22,2,Nitrogen Dioxide (ppm),0.0192,0.0192
-2025-06-25 10:14:23,2,Sulfur Dioxide (ppm),0.0143,0.0143
-2025-06-25 10:14:24,2,Carbon Monoxide (ppm),0.75,0.75
-2025-06-25 10:14:25,2,Temperature (°C),18.5,18.5
-2025-06-25 10:14:26,2,Humidity (%),57.28,57.28
-2025-06-25 10:14:27,2,Air Quality Index (AQI),99,99.0
-2025-06-25 10:14:28,2,Soil Moisture (%),43.41,43.41
-2025-06-25 10:14:29,2,Particulate Matter 2.5 (µg/m³),38.83,38.83
-2025-06-25 10:14:30,2,Particulate Matter 10 (µg/m³),51.57,51.57
-2025-06-25 10:14:32,2,Ozone Concentration (ppm),0.0394,0.0394
-2025-06-25 10:14:33,2,Nitrogen Dioxide (ppm),0.0193,0.0193
-2025-06-25 10:14:34,2,Sulfur Dioxide (ppm),0.015,0.015
-2025-06-25 10:14:35,2,Carbon Monoxide (ppm),0.69,0.69
-2025-06-25 10:14:36,2,Temperature (°C),21.58,21.58
-2025-06-25 10:14:37,2,Humidity (%),49.35,49.35
-2025-06-25 10:14:38,2,Air Quality Index (AQI),62,62.0
-2025-06-25 10:14:39,2,Soil Moisture (%),41.28,41.28
-2025-06-25 10:14:40,2,Particulate Matter 2.5 (µg/m³),33.65,33.65
-2025-06-25 10:14:41,2,Particulate Matter 10 (µg/m³),48.37,48.37
-2025-06-25 10:14:42,2,Ozone Concentration (ppm),0.0417,0.0417
-2025-06-25 10:14:43,2,Nitrogen Dioxide (ppm),0.0187,0.0187
-2025-06-25 10:14:45,2,Sulfur Dioxide (ppm),0.0195,0.0195
-2025-06-25 10:14:46,2,Carbon Monoxide (ppm),0.71,0.71
-2025-06-25 10:14:47,2,Temperature (°C),18.84,18.84
-2025-06-25 10:14:48,2,Humidity (%),60.88,60.88
-2025-06-25 10:14:49,2,Air Quality Index (AQI),76,76.0
-2025-06-25 10:14:50,2,Soil Moisture (%),37.08,37.08
-2025-06-25 10:14:51,2,Particulate Matter 2.5 (µg/m³),36.83,36.83
-2025-06-25 10:14:52,2,Particulate Matter 10 (µg/m³),65.41,65.41
-2025-06-25 10:14:53,2,Ozone Concentration (ppm),0.0261,0.0261
-2025-06-25 10:14:54,2,Nitrogen Dioxide (ppm),0.0211,0.0211
-2025-06-25 10:14:55,2,Sulfur Dioxide (ppm),0.0137,0.0137
-2025-06-25 10:14:56,2,Carbon Monoxide (ppm),0.73,0.73
-2025-06-25 10:14:57,2,Temperature (°C),11.01,11.01
-2025-06-25 10:14:59,2,Humidity (%),67.99,67.99
-2025-06-25 10:15:00,2,Air Quality Index (AQI),78,78.0
-2025-06-25 10:15:01,2,Soil Moisture (%),38.03,38.03
-2025-06-25 10:15:02,2,Particulate Matter 2.5 (µg/m³),36.24,36.24
-2025-06-25 10:15:03,2,Particulate Matter 10 (µg/m³),54.81,54.81
-2025-06-25 10:15:04,2,Ozone Concentration (ppm),0.0275,0.0275
-2025-06-25 10:15:05,2,Nitrogen Dioxide (ppm),0.0227,0.0227
-2025-06-25 10:15:06,2,Sulfur Dioxide (ppm),0.0164,0.0164
-2025-06-25 10:15:07,2,Carbon Monoxide (ppm),0.76,0.76
-2025-06-25 10:15:08,2,Temperature (°C),16.88,16.88
-2025-06-25 10:15:09,2,Humidity (%),48.95,48.95
-2025-06-25 10:15:10,2,Air Quality Index (AQI),72,72.0
-2025-06-25 10:15:11,2,Soil Moisture (%),34.02,34.02
-2025-06-25 10:15:12,2,Particulate Matter 2.5 (µg/m³),35.56,35.56
-2025-06-25 10:15:14,2,Particulate Matter 10 (µg/m³),48.63,48.63
-2025-06-25 10:15:15,2,Ozone Concentration (ppm),0.0401,0.0401
-2025-06-25 10:15:16,2,Nitrogen Dioxide (ppm),0.0208,0.0208
-2025-06-25 10:15:17,2,Sulfur Dioxide (ppm),0.0185,0.0185
-2025-06-25 10:15:18,2,Carbon Monoxide (ppm),0.65,0.65
-2025-06-25 10:15:19,2,Temperature (°C),14.5,14.5
-2025-06-25 10:15:20,2,Humidity (%),60.99,60.99
-2025-06-25 10:15:21,2,Air Quality Index (AQI),76,76.0
-2025-06-25 10:15:22,2,Soil Moisture (%),37.48,37.48
-2025-06-25 10:15:23,2,Particulate Matter 2.5 (µg/m³),45.33,45.33
-2025-06-25 10:15:25,2,Particulate Matter 10 (µg/m³),47.66,47.66
-2025-06-25 10:15:26,2,Ozone Concentration (ppm),0.0316,0.0316
-2025-06-25 10:15:27,2,Nitrogen Dioxide (ppm),0.0211,0.0211
-2025-06-25 10:15:28,2,Sulfur Dioxide (ppm),0.016,0.016
-2025-06-25 10:15:29,2,Carbon Monoxide (ppm),0.71,0.71
-2025-06-25 10:15:30,2,Temperature (°C),10.43,10.43
-2025-06-25 10:15:31,2,Humidity (%),63.55,63.55
-2025-06-25 10:15:32,2,Air Quality Index (AQI),82,82.0
-2025-06-25 10:15:33,2,Soil Moisture (%),43.77,43.77
-2025-06-25 10:15:34,2,Particulate Matter 2.5 (µg/m³),47.27,47.27
-2025-06-25 10:15:35,2,Particulate Matter 10 (µg/m³),58.18,58.18
-2025-06-25 10:15:36,2,Ozone Concentration (ppm),0.0251,0.0251
-2025-06-25 10:15:37,2,Nitrogen Dioxide (ppm),0.0233,0.0233
-2025-06-25 10:15:39,2,Sulfur Dioxide (ppm),0.0125,0.0125
-2025-06-25 10:15:40,2,Carbon Monoxide (ppm),0.68,0.68
-2025-06-25 10:15:41,3,Temperature (°C),6.78,6.78
-2025-06-25 10:15:42,3,Humidity (%),68.11,68.11
-2025-06-25 10:15:43,3,Air Quality Index (AQI),82,82.0
-2025-06-25 10:15:44,3,Soil Moisture (%),32.24,32.24
-2025-06-25 10:15:45,3,Particulate Matter 2.5 (µg/m³),34.27,34.27
-2025-06-25 10:15:46,3,Particulate Matter 10 (µg/m³),50.02,50.02
-2025-06-25 10:15:47,3,Ozone Concentration (ppm),0.0284,0.0284
-2025-06-25 10:15:48,3,Nitrogen Dioxide (ppm),0.0211,0.0211
-2025-06-25 10:15:49,3,Sulfur Dioxide (ppm),0.0155,0.0155
-2025-06-25 10:15:50,3,Carbon Monoxide (ppm),0.71,0.71
-2025-06-25 10:15:52,3,Temperature (°C),3.16,3.16
-2025-06-25 10:15:53,3,Humidity (%),65.42,65.42
-2025-06-25 10:15:54,3,Air Quality Index (AQI),59,59.0
-2025-06-25 10:15:55,3,Soil Moisture (%),43.92,43.92
-2025-06-25 10:15:56,3,Particulate Matter 2.5 (µg/m³),33.08,33.08
-2025-06-25 10:15:57,3,Particulate Matter 10 (µg/m³),43.27,43.27
-2025-06-25 10:15:58,3,Ozone Concentration (ppm),0.0192,0.0192
-2025-06-25 10:15:59,3,Nitrogen Dioxide (ppm),0.018,0.018
-2025-06-25 10:16:00,3,Sulfur Dioxide (ppm),0.018,0.018
-2025-06-25 10:16:01,3,Carbon Monoxide (ppm),0.75,0.75
-2025-06-25 10:16:02,3,Temperature (°C),12.13,12.13
-2025-06-25 10:16:03,3,Humidity (%),49.61,49.61
-2025-06-25 10:16:04,3,Air Quality Index (AQI),88,88.0
-2025-06-25 10:16:05,3,Soil Moisture (%),45.64,45.64
-2025-06-25 10:16:07,3,Particulate Matter 2.5 (µg/m³),32.65,32.65
-2025-06-25 10:16:08,3,Particulate Matter 10 (µg/m³),66.6,66.6
-2025-06-25 10:16:09,3,Ozone Concentration (ppm),0.025,0.025
-2025-06-25 10:16:10,3,Nitrogen Dioxide (ppm),0.0225,0.0225
-2025-06-25 10:16:11,3,Sulfur Dioxide (ppm),0.0158,0.0158
-2025-06-25 10:16:12,3,Carbon Monoxide (ppm),0.68,0.68
-2025-06-25 10:16:13,3,Temperature (°C),13.93,13.93
-2025-06-25 10:16:14,3,Humidity (%),53.3,53.3
-2025-06-25 10:16:15,3,Air Quality Index (AQI),86,86.0
-2025-06-25 10:16:16,3,Soil Moisture (%),34.98,34.98
-2025-06-25 10:16:17,3,Particulate Matter 2.5 (µg/m³),32.98,32.98
-2025-06-25 10:16:18,3,Particulate Matter 10 (µg/m³),58.72,58.72
-2025-06-25 10:16:20,3,Ozone Concentration (ppm),0.0309,0.0309
-2025-06-25 10:16:21,3,Nitrogen Dioxide (ppm),0.0144,0.0144
-2025-06-25 10:16:22,3,Sulfur Dioxide (ppm),0.0157,0.0157
-2025-06-25 10:16:23,3,Carbon Monoxide (ppm),0.69,0.69
-2025-06-25 10:16:24,3,Temperature (°C),9.29,9.29
-2025-06-25 10:16:25,3,Humidity (%),69.51,69.51
-2025-06-25 10:16:26,3,Air Quality Index (AQI),64,64.0
-2025-06-25 10:16:27,3,Soil Moisture (%),47.98,47.98
-2025-06-25 10:16:28,3,Particulate Matter 2.5 (µg/m³),33.7,33.7
-2025-06-25 10:16:29,3,Particulate Matter 10 (µg/m³),48.49,48.49
-2025-06-25 10:16:30,3,Ozone Concentration (ppm),0.0293,0.0293
-2025-06-25 10:16:31,3,Nitrogen Dioxide (ppm),0.0187,0.0187
-2025-06-25 10:16:33,3,Sulfur Dioxide (ppm),0.0149,0.0149
-2025-06-25 10:16:34,3,Carbon Monoxide (ppm),0.72,0.72
-2025-06-25 10:16:35,3,Temperature (°C),17.53,17.53
-2025-06-25 10:16:36,3,Humidity (%),46.86,46.86
-2025-06-25 10:16:37,3,Air Quality Index (AQI),83,83.0
-2025-06-25 10:16:38,3,Soil Moisture (%),31.27,31.27
-2025-06-25 10:16:39,3,Particulate Matter 2.5 (µg/m³),31.31,31.31
-2025-06-25 10:16:40,3,Particulate Matter 10 (µg/m³),49.8,49.8
-2025-06-25 10:16:41,3,Ozone Concentration (ppm),0.0399,0.0399
-2025-06-25 10:16:42,3,Nitrogen Dioxide (ppm),0.0171,0.0171
-2025-06-25 10:16:43,3,Sulfur Dioxide (ppm),0.0106,0.0106
-2025-06-25 10:16:44,3,Carbon Monoxide (ppm),0.68,0.68
-2025-06-25 10:16:45,3,Temperature (°C),16.42,16.42
-2025-06-25 10:16:47,3,Humidity (%),63.34,63.34
-2025-06-25 10:16:48,3,Air Quality Index (AQI),79,79.0
-2025-06-25 10:16:49,3,Soil Moisture (%),34.84,34.84
-2025-06-25 10:16:50,3,Particulate Matter 2.5 (µg/m³),28.25,28.25
-2025-06-25 10:16:51,3,Particulate Matter 10 (µg/m³),45.62,45.62
-2025-06-25 10:16:52,3,Ozone Concentration (ppm),0.04,0.04
-2025-06-25 10:16:53,3,Nitrogen Dioxide (ppm),0.0192,0.0192
-2025-06-25 10:16:54,3,Sulfur Dioxide (ppm),0.0158,0.0158
-2025-06-25 10:16:55,3,Carbon Monoxide (ppm),0.79,0.79
-2025-06-25 10:16:56,3,Temperature (°C),17.09,17.09
-2025-06-25 10:16:57,3,Humidity (%),58.34,58.34
-2025-06-25 10:16:58,3,Air Quality Index (AQI),77,77.0
-2025-06-25 10:17:00,3,Soil Moisture (%),33.94,33.94
-2025-06-25 10:17:01,3,Particulate Matter 2.5 (µg/m³),28.32,28.32
-2025-06-25 10:17:02,3,Particulate Matter 10 (µg/m³),44.78,44.78
-2025-06-25 10:17:03,3,Ozone Concentration (ppm),0.0247,0.0247
-2025-06-25 10:17:04,3,Nitrogen Dioxide (ppm),0.0169,0.0169
-2025-06-25 10:17:05,3,Sulfur Dioxide (ppm),0.0148,0.0148
-2025-06-25 10:17:06,3,Carbon Monoxide (ppm),0.63,0.63
-2025-06-25 10:17:07,3,Temperature (°C),13.52,13.52
-2025-06-25 10:17:08,3,Humidity (%),55.04,55.04
-2025-06-25 10:17:09,3,Air Quality Index (AQI),114,114.0
-2025-06-25 10:17:10,3,Soil Moisture (%),39.16,39.16
-2025-06-25 10:17:11,3,Particulate Matter 2.5 (µg/m³),34.62,34.62
-2025-06-25 10:17:12,3,Particulate Matter 10 (µg/m³),49.23,49.23
-2025-06-25 10:17:14,3,Ozone Concentration (ppm),0.0348,0.0348
-2025-06-25 10:17:15,3,Nitrogen Dioxide (ppm),0.021,0.021
-2025-06-25 10:17:16,3,Sulfur Dioxide (ppm),0.0154,0.0154
-2025-06-25 10:17:17,3,Carbon Monoxide (ppm),0.73,0.73
-2025-06-25 10:17:18,3,Temperature (°C),11.1,11.1
-2025-06-25 10:17:19,3,Humidity (%),51.03,51.03
-2025-06-25 10:17:20,3,Air Quality Index (AQI),81,81.0
-2025-06-25 10:17:21,3,Soil Moisture (%),42.07,42.07
-2025-06-25 10:17:22,3,Particulate Matter 2.5 (µg/m³),39.42,39.42
-2025-06-25 10:17:23,3,Particulate Matter 10 (µg/m³),38.76,38.76
-2025-06-25 10:17:24,3,Ozone Concentration (ppm),0.0315,0.0315
-2025-06-25 10:17:25,3,Nitrogen Dioxide (ppm),0.0195,0.0195
-2025-06-25 10:17:26,3,Sulfur Dioxide (ppm),0.0152,0.0152
-2025-06-25 10:17:28,3,Carbon Monoxide (ppm),0.74,0.74
-2025-06-25 10:17:29,3,Temperature (°C),9.92,9.92
-2025-06-25 10:17:30,3,Humidity (%),56.11,56.11
-2025-06-25 10:17:31,3,Air Quality Index (AQI),67,67.0
-2025-06-25 10:17:32,3,Soil Moisture (%),42.04,42.04
-2025-06-25 10:17:33,3,Particulate Matter 2.5 (µg/m³),38.95,38.95
-2025-06-25 10:17:34,3,Particulate Matter 10 (µg/m³),49.06,49.06
-2025-06-25 10:17:35,3,Ozone Concentration (ppm),0.0311,0.0311
-2025-06-25 10:17:36,3,Nitrogen Dioxide (ppm),0.0178,0.0178
-2025-06-25 10:17:37,3,Sulfur Dioxide (ppm),0.0168,0.0168
-2025-06-25 10:17:38,3,Carbon Monoxide (ppm),0.59,0.59
-2025-06-25 10:17:39,3,Temperature (°C),9.99,9.99
-2025-06-25 10:17:40,3,Humidity (%),58.21,58.21
-2025-06-25 10:17:42,3,Air Quality Index (AQI),89,89.0
-2025-06-25 10:17:43,3,Soil Moisture (%),47.76,47.76
-2025-06-25 10:17:44,3,Particulate Matter 2.5 (µg/m³),34.07,34.07
-2025-06-25 10:17:45,3,Particulate Matter 10 (µg/m³),53.72,53.72
-2025-06-25 10:17:46,3,Ozone Concentration (ppm),0.0313,0.0313
-2025-06-25 10:17:47,3,Nitrogen Dioxide (ppm),0.0166,0.0166
-2025-06-25 10:17:48,3,Sulfur Dioxide (ppm),0.0161,0.0161
-2025-06-25 10:17:49,3,Carbon Monoxide (ppm),0.66,0.66
-2025-06-25 10:17:50,4,Temperature (°C),27.93,27.93
-2025-06-25 10:17:51,4,Humidity (%),45.18,45.18
-2025-06-25 10:17:52,4,Air Quality Index (AQI),103,103.0
-2025-06-25 10:17:53,4,Soil Moisture (%),36.06,36.06
-2025-06-25 10:17:55,4,Particulate Matter 2.5 (µg/m³),35.86,35.86
-2025-06-25 10:17:56,4,Particulate Matter 10 (µg/m³),53.88,53.88
-2025-06-25 10:17:57,4,Ozone Concentration (ppm),0.0345,0.0345
-2025-06-25 10:17:58,4,Nitrogen Dioxide (ppm),0.024,0.024
-2025-06-25 10:17:59,4,Sulfur Dioxide (ppm),0.0129,0.0129
-2025-06-25 10:18:00,4,Carbon Monoxide (ppm),0.7,0.7
-2025-06-25 10:18:01,4,Temperature (°C),26.04,26.04
-2025-06-25 10:18:02,4,Humidity (%),65.74,65.74
-2025-06-25 10:18:03,4,Air Quality Index (AQI),99,99.0
-2025-06-25 10:18:04,4,Soil Moisture (%),28.4,28.4
-2025-06-25 10:18:05,4,Particulate Matter 2.5 (µg/m³),39.74,39.74
-2025-06-25 10:18:06,4,Particulate Matter 10 (µg/m³),41.47,41.47
-2025-06-25 10:18:07,4,Ozone Concentration (ppm),0.0285,0.0285
-2025-06-25 10:18:08,4,Nitrogen Dioxide (ppm),0.0233,0.0233
-2025-06-25 10:18:10,4,Sulfur Dioxide (ppm),0.0165,0.0165
-2025-06-25 10:18:11,4,Carbon Monoxide (ppm),0.65,0.65
-2025-06-25 10:18:12,4,Temperature (°C),25.02,25.02
-2025-06-25 10:18:13,4,Humidity (%),48.12,48.12
-2025-06-25 10:18:14,4,Air Quality Index (AQI),82,82.0
-2025-06-25 10:18:15,4,Soil Moisture (%),33.98,33.98
-2025-06-25 10:18:16,4,Particulate Matter 2.5 (µg/m³),30.77,30.77
-2025-06-25 10:18:17,4,Particulate Matter 10 (µg/m³),55.08,55.08
-2025-06-25 10:18:18,4,Ozone Concentration (ppm),0.0234,0.0234
-2025-06-25 10:18:19,4,Nitrogen Dioxide (ppm),0.0207,0.0207
-2025-06-25 10:18:20,4,Sulfur Dioxide (ppm),0.0162,0.0162
-2025-06-25 10:18:21,4,Carbon Monoxide (ppm),0.67,0.67
-2025-06-25 10:18:23,4,Temperature (°C),19.93,19.93
-2025-06-25 10:18:24,4,Humidity (%),70.72,70.72
-2025-06-25 10:18:25,4,Air Quality Index (AQI),62,62.0
-2025-06-25 10:18:26,4,Soil Moisture (%),49.07,49.07
-2025-06-25 10:18:27,4,Particulate Matter 2.5 (µg/m³),35.56,35.56
-2025-06-25 10:18:28,4,Particulate Matter 10 (µg/m³),47.39,47.39
-2025-06-25 10:18:29,4,Ozone Concentration (ppm),0.0295,0.0295
-2025-06-25 10:18:30,4,Nitrogen Dioxide (ppm),0.0234,0.0234
-2025-06-25 10:18:31,4,Sulfur Dioxide (ppm),0.0149,0.0149
-2025-06-25 10:18:32,4,Carbon Monoxide (ppm),0.69,0.69
-2025-06-25 10:18:33,4,Temperature (°C),21.93,21.93
-2025-06-25 10:18:34,4,Humidity (%),61.48,61.48
-2025-06-25 10:18:35,4,Air Quality Index (AQI),81,81.0
-2025-06-25 10:18:37,4,Soil Moisture (%),40.18,40.18
-2025-06-25 10:18:38,4,Particulate Matter 2.5 (µg/m³),30.16,30.16
-2025-06-25 10:18:39,4,Particulate Matter 10 (µg/m³),44.91,44.91
-2025-06-25 10:18:40,4,Ozone Concentration (ppm),0.0252,0.0252
-2025-06-25 10:18:41,4,Nitrogen Dioxide (ppm),0.0153,0.0153
-2025-06-25 10:18:42,4,Sulfur Dioxide (ppm),0.0168,0.0168
-2025-06-25 10:18:43,4,Carbon Monoxide (ppm),0.68,0.68
-2025-06-25 10:18:44,4,Temperature (°C),17.99,17.99
-2025-06-25 10:18:45,4,Humidity (%),58.64,58.64
-2025-06-25 10:18:46,4,Air Quality Index (AQI),63,63.0
-2025-06-25 10:18:47,4,Soil Moisture (%),33.92,33.92
-2025-06-25 10:18:48,4,Particulate Matter 2.5 (µg/m³),24.67,24.67
-2025-06-25 10:18:50,4,Particulate Matter 10 (µg/m³),46.02,46.02
-2025-06-25 10:18:51,4,Ozone Concentration (ppm),0.0352,0.0352
-2025-06-25 10:18:52,4,Nitrogen Dioxide (ppm),0.0211,0.0211
-2025-06-25 10:18:53,4,Sulfur Dioxide (ppm),0.0171,0.0171
-2025-06-25 10:18:54,4,Carbon Monoxide (ppm),0.66,0.66
-2025-06-25 10:18:55,4,Temperature (°C),16.05,16.05
-2025-06-25 10:18:56,4,Humidity (%),58.63,58.63
-2025-06-25 10:18:57,4,Air Quality Index (AQI),68,68.0
-2025-06-25 10:18:58,4,Soil Moisture (%),44.14,44.14
-2025-06-25 10:18:59,4,Particulate Matter 2.5 (µg/m³),33.91,33.91
-2025-06-25 10:19:00,4,Particulate Matter 10 (µg/m³),50.5,50.5
-2025-06-25 10:19:01,4,Ozone Concentration (ppm),0.0241,0.0241
-2025-06-25 10:19:02,4,Nitrogen Dioxide (ppm),0.0203,0.0203
-2025-06-25 10:19:04,4,Sulfur Dioxide (ppm),0.0179,0.0179
-2025-06-25 10:19:05,4,Carbon Monoxide (ppm),0.71,0.71
-2025-06-25 10:19:06,4,Temperature (°C),17.45,17.45
-2025-06-25 10:19:07,4,Humidity (%),71.23,71.23
-2025-06-25 10:19:08,4,Air Quality Index (AQI),59,59.0
-2025-06-25 10:19:09,4,Soil Moisture (%),46.3,46.3
-2025-06-25 10:19:10,4,Particulate Matter 2.5 (µg/m³),39.83,39.83
-2025-06-25 10:19:11,4,Particulate Matter 10 (µg/m³),46.23,46.23
-2025-06-25 10:19:12,4,Ozone Concentration (ppm),0.031,0.031
-2025-06-25 10:19:13,4,Nitrogen Dioxide (ppm),0.0177,0.0177
-2025-06-25 10:19:14,4,Sulfur Dioxide (ppm),0.0163,0.0163
-2025-06-25 10:19:15,4,Carbon Monoxide (ppm),0.73,0.73
-2025-06-25 10:19:17,4,Temperature (°C),19.87,19.87
-2025-06-25 10:19:18,4,Humidity (%),67.25,67.25
-2025-06-25 10:19:19,4,Air Quality Index (AQI),81,81.0
-2025-06-25 10:19:20,4,Soil Moisture (%),48.46,48.46
-2025-06-25 10:19:21,4,Particulate Matter 2.5 (µg/m³),31.7,31.7
-2025-06-25 10:19:22,4,Particulate Matter 10 (µg/m³),45.72,45.72
-2025-06-25 10:19:23,4,Ozone Concentration (ppm),0.0184,0.0184
-2025-06-25 10:19:24,4,Nitrogen Dioxide (ppm),0.0195,0.0195
-2025-06-25 10:19:25,4,Sulfur Dioxide (ppm),0.0157,0.0157
-2025-06-25 10:19:26,4,Carbon Monoxide (ppm),0.74,0.74
-2025-06-25 10:19:27,4,Temperature (°C),23.94,23.94
-2025-06-25 10:19:28,4,Humidity (%),60.01,60.01
-2025-06-25 10:19:29,4,Air Quality Index (AQI),91,91.0
-2025-06-25 10:19:31,4,Soil Moisture (%),41.94,41.94
-2025-06-25 10:19:32,4,Particulate Matter 2.5 (µg/m³),39.58,39.58
-2025-06-25 10:19:33,4,Particulate Matter 10 (µg/m³),49.64,49.64
-2025-06-25 10:19:34,4,Ozone Concentration (ppm),0.035,0.035
-2025-06-25 10:19:35,4,Nitrogen Dioxide (ppm),0.0177,0.0177
-2025-06-25 10:19:36,4,Sulfur Dioxide (ppm),0.016,0.016
-2025-06-25 10:19:37,4,Carbon Monoxide (ppm),0.63,0.63
-2025-06-25 10:19:38,4,Temperature (°C),20.67,20.67
-2025-06-25 10:19:39,4,Humidity (%),58.23,58.23
-2025-06-25 10:19:40,4,Air Quality Index (AQI),80,80.0
-2025-06-25 10:19:41,4,Soil Moisture (%),43.45,43.45
-2025-06-25 10:19:42,4,Particulate Matter 2.5 (µg/m³),36.12,36.12
-2025-06-25 10:19:44,4,Particulate Matter 10 (µg/m³),48.23,48.23
-2025-06-25 10:19:45,4,Ozone Concentration (ppm),0.0291,0.0291
-2025-06-25 10:19:46,4,Nitrogen Dioxide (ppm),0.0197,0.0197
-2025-06-25 10:19:47,4,Sulfur Dioxide (ppm),0.0156,0.0156
-2025-06-25 10:19:48,4,Carbon Monoxide (ppm),0.65,0.65
-2025-06-25 10:19:49,4,Temperature (°C),27.52,27.52
-2025-06-25 10:19:50,4,Humidity (%),46.87,46.87
-2025-06-25 10:19:51,4,Air Quality Index (AQI),96,96.0
-2025-06-25 10:19:52,4,Soil Moisture (%),43.08,43.08
-2025-06-25 10:19:53,4,Particulate Matter 2.5 (µg/m³),40.78,40.78
-2025-06-25 10:19:54,4,Particulate Matter 10 (µg/m³),54.88,54.88
-2025-06-25 10:19:55,4,Ozone Concentration (ppm),0.0375,0.0375
-2025-06-25 10:19:56,4,Nitrogen Dioxide (ppm),0.0179,0.0179
-2025-06-25 10:19:58,4,Sulfur Dioxide (ppm),0.0157,0.0157
-2025-06-25 10:19:59,4,Carbon Monoxide (ppm),0.75,0.75
-2025-06-25 10:20:00,5,Temperature (°C),33.57,33.57
-2025-06-25 10:20:01,5,Humidity (%),56.9,56.9
-2025-06-25 10:20:02,5,Air Quality Index (AQI),99,99.0
-2025-06-25 10:20:03,5,Soil Moisture (%),31.75,31.75
-2025-06-25 10:20:04,5,Particulate Matter 2.5 (µg/m³),34.31,34.31
-2025-06-25 10:20:05,5,Particulate Matter 10 (µg/m³),60.11,60.11
-2025-06-25 10:20:06,5,Ozone Concentration (ppm),0.0346,0.0346
-2025-06-25 10:20:07,5,Nitrogen Dioxide (ppm),0.0201,0.0201
-2025-06-25 10:20:08,5,Sulfur Dioxide (ppm),0.016,0.016
-2025-06-25 10:20:09,5,Carbon Monoxide (ppm),0.71,0.71
-2025-06-25 10:20:11,5,Temperature (°C),33.38,33.38
-2025-06-25 10:20:12,5,Humidity (%),56.2,56.2
-2025-06-25 10:20:13,5,Air Quality Index (AQI),104,104.0
-2025-06-25 10:20:14,5,Soil Moisture (%),45.13,45.13
-2025-06-25 10:20:15,5,Particulate Matter 2.5 (µg/m³),39.29,39.29
-2025-06-25 10:20:16,5,Particulate Matter 10 (µg/m³),57.85,57.85
-2025-06-25 10:20:17,5,Ozone Concentration (ppm),0.0262,0.0262
-2025-06-25 10:20:18,5,Nitrogen Dioxide (ppm),0.0232,0.0232
-2025-06-25 10:20:19,5,Sulfur Dioxide (ppm),0.0167,0.0167
-2025-06-25 10:20:20,5,Carbon Monoxide (ppm),0.65,0.65
+SensorID,Location,Timestamp,data_type,data_value,numeric_value
+1,Asia,2025-01-01,Temperature (°C),16.2,16.2
+1,Asia,2025-02-01,Temperature (°C),16.95,16.95
+1,Asia,2025-03-01,Temperature (°C),21.37,21.37
+1,Asia,2025-04-01,Temperature (°C),20.09,20.09
+1,Asia,2025-05-01,Temperature (°C),21.6,21.6
+1,Asia,2025-06-01,Temperature (°C),25.97,25.97
+1,Asia,2025-07-01,Temperature (°C),26.16,26.16
+1,Asia,2025-08-01,Temperature (°C),24.42,24.42
+1,Asia,2025-09-01,Temperature (°C),21.89,21.89
+1,Asia,2025-10-01,Temperature (°C),21.62,21.62
+1,Asia,2025-11-01,Temperature (°C),21.8,21.8
+1,Asia,2025-12-01,Temperature (°C),11.1,11.1
+2,Europe,2025-01-01,Temperature (°C),11.18,11.18
+2,Europe,2025-02-01,Temperature (°C),10.64,10.64
+2,Europe,2025-03-01,Temperature (°C),14.93,14.93
+2,Europe,2025-04-01,Temperature (°C),14.0,14.0
+2,Europe,2025-05-01,Temperature (°C),15.42,15.42
+2,Europe,2025-06-01,Temperature (°C),18.5,18.5
+2,Europe,2025-07-01,Temperature (°C),21.58,21.58
+2,Europe,2025-08-01,Temperature (°C),18.84,18.84
+2,Europe,2025-09-01,Temperature (°C),11.01,11.01
+2,Europe,2025-10-01,Temperature (°C),16.88,16.88
+2,Europe,2025-11-01,Temperature (°C),14.5,14.5
+2,Europe,2025-12-01,Temperature (°C),10.43,10.43
+3,North America,2025-01-01,Temperature (°C),6.78,6.78
+3,North America,2025-02-01,Temperature (°C),3.16,3.16
+3,North America,2025-03-01,Temperature (°C),12.13,12.13
+3,North America,2025-04-01,Temperature (°C),13.93,13.93
+3,North America,2025-05-01,Temperature (°C),9.29,9.29
+3,North America,2025-06-01,Temperature (°C),17.53,17.53
+3,North America,2025-07-01,Temperature (°C),16.42,16.42
+3,North America,2025-08-01,Temperature (°C),17.09,17.09
+3,North America,2025-09-01,Temperature (°C),13.52,13.52
+3,North America,2025-10-01,Temperature (°C),11.1,11.1
+3,North America,2025-11-01,Temperature (°C),9.92,9.92
+3,North America,2025-12-01,Temperature (°C),9.99,9.99
+4,South America,2025-01-01,Temperature (°C),27.93,27.93
+4,South America,2025-02-01,Temperature (°C),26.04,26.04
+4,South America,2025-03-01,Temperature (°C),25.02,25.02
+4,South America,2025-04-01,Temperature (°C),19.93,19.93
+4,South America,2025-05-01,Temperature (°C),21.93,21.93
+4,South America,2025-06-01,Temperature (°C),17.99,17.99
+4,South America,2025-07-01,Temperature (°C),16.05,16.05
+4,South America,2025-08-01,Temperature (°C),17.45,17.45
+4,South America,2025-09-01,Temperature (°C),19.87,19.87
+4,South America,2025-10-01,Temperature (°C),23.94,23.94
+4,South America,2025-11-01,Temperature (°C),20.67,20.67
+4,South America,2025-12-01,Temperature (°C),27.52,27.52
+5,Africa,2025-01-01,Temperature (°C),33.57,33.57
+5,Africa,2025-02-01,Temperature (°C),33.38,33.38
+5,Africa,2025-03-01,Temperature (°C),27.27,27.27
+5,Africa,2025-04-01,Temperature (°C),30.49,30.49
+5,Africa,2025-05-01,Temperature (°C),28.14,28.14
+5,Africa,2025-06-01,Temperature (°C),22.27,22.27
+5,Africa,2025-07-01,Temperature (°C),25.51,25.51
+5,Africa,2025-08-01,Temperature (°C),21.34,21.34
+5,Africa,2025-09-01,Temperature (°C),29.77,29.77
+5,Africa,2025-10-01,Temperature (°C),27.32,27.32
+5,Africa,2025-11-01,Temperature (°C),30.93,30.93
+5,Africa,2025-12-01,Temperature (°C),34.14,34.14
+6,Australia,2025-01-01,Temperature (°C),29.85,29.85
+6,Australia,2025-02-01,Temperature (°C),30.68,30.68
+6,Australia,2025-03-01,Temperature (°C),24.36,24.36
+6,Australia,2025-04-01,Temperature (°C),25.28,25.28
+6,Australia,2025-05-01,Temperature (°C),24.1,24.1
+6,Australia,2025-06-01,Temperature (°C),17.54,17.54
+6,Australia,2025-07-01,Temperature (°C),18.56,18.56
+6,Australia,2025-08-01,Temperature (°C),18.04,18.04
+6,Australia,2025-09-01,Temperature (°C),23.92,23.92
+6,Australia,2025-10-01,Temperature (°C),23.89,23.89
+6,Australia,2025-11-01,Temperature (°C),23.88,23.88
+6,Australia,2025-12-01,Temperature (°C),31.28,31.28
+7,Antarctica,2025-01-01,Temperature (°C),-16.35,16.35
+7,Antarctica,2025-02-01,Temperature (°C),-13.67,13.67
+7,Antarctica,2025-03-01,Temperature (°C),-36.54,36.54
+7,Antarctica,2025-04-01,Temperature (°C),-34.14,34.14
+7,Antarctica,2025-05-01,Temperature (°C),-34.94,34.94
+7,Antarctica,2025-06-01,Temperature (°C),-36.36,36.36
+7,Antarctica,2025-07-01,Temperature (°C),-37.51,37.51
+7,Antarctica,2025-08-01,Temperature (°C),-35.58,35.58
+7,Antarctica,2025-09-01,Temperature (°C),-38.11,38.11
+7,Antarctica,2025-10-01,Temperature (°C),-36.84,36.84
+7,Antarctica,2025-11-01,Temperature (°C),-35.04,35.04
+7,Antarctica,2025-12-01,Temperature (°C),-14.49,14.49
+1,Asia,2025-01-01,Humidity (%),55.27,55.27
+1,Asia,2025-02-01,Humidity (%),66.36,66.36
+1,Asia,2025-03-01,Humidity (%),66.04,66.04
+1,Asia,2025-04-01,Humidity (%),60.5,60.5
+1,Asia,2025-05-01,Humidity (%),56.1,56.1
+1,Asia,2025-06-01,Humidity (%),54.55,54.55
+1,Asia,2025-07-01,Humidity (%),50.23,50.23
+1,Asia,2025-08-01,Humidity (%),49.8,49.8
+1,Asia,2025-09-01,Humidity (%),63.7,63.7
+1,Asia,2025-10-01,Humidity (%),53.08,53.08
+1,Asia,2025-11-01,Humidity (%),65.09,65.09
+1,Asia,2025-12-01,Humidity (%),65.35,65.35
+2,Europe,2025-01-01,Humidity (%),66.55,66.55
+2,Europe,2025-02-01,Humidity (%),62.2,62.2
+2,Europe,2025-03-01,Humidity (%),62.93,62.93
+2,Europe,2025-04-01,Humidity (%),54.7,54.7
+2,Europe,2025-05-01,Humidity (%),62.34,62.34
+2,Europe,2025-06-01,Humidity (%),57.28,57.28
+2,Europe,2025-07-01,Humidity (%),49.35,49.35
+2,Europe,2025-08-01,Humidity (%),60.88,60.88
+2,Europe,2025-09-01,Humidity (%),67.99,67.99
+2,Europe,2025-10-01,Humidity (%),48.95,48.95
+2,Europe,2025-11-01,Humidity (%),60.99,60.99
+2,Europe,2025-12-01,Humidity (%),63.55,63.55
+3,North America,2025-01-01,Humidity (%),68.11,68.11
+3,North America,2025-02-01,Humidity (%),65.42,65.42
+3,North America,2025-03-01,Humidity (%),49.61,49.61
+3,North America,2025-04-01,Humidity (%),53.3,53.3
+3,North America,2025-05-01,Humidity (%),69.51,69.51
+3,North America,2025-06-01,Humidity (%),46.86,46.86
+3,North America,2025-07-01,Humidity (%),63.34,63.34
+3,North America,2025-08-01,Humidity (%),58.34,58.34
+3,North America,2025-09-01,Humidity (%),55.04,55.04
+3,North America,2025-10-01,Humidity (%),51.03,51.03
+3,North America,2025-11-01,Humidity (%),56.11,56.11
+3,North America,2025-12-01,Humidity (%),58.21,58.21
+4,South America,2025-01-01,Humidity (%),45.18,45.18
+4,South America,2025-02-01,Humidity (%),65.74,65.74
+4,South America,2025-03-01,Humidity (%),48.12,48.12
+4,South America,2025-04-01,Humidity (%),70.72,70.72
+4,South America,2025-05-01,Humidity (%),61.48,61.48
+4,South America,2025-06-01,Humidity (%),58.64,58.64
+4,South America,2025-07-01,Humidity (%),58.63,58.63
+4,South America,2025-08-01,Humidity (%),71.23,71.23
+4,South America,2025-09-01,Humidity (%),67.25,67.25
+4,South America,2025-10-01,Humidity (%),60.01,60.01
+4,South America,2025-11-01,Humidity (%),58.23,58.23
+4,South America,2025-12-01,Humidity (%),46.87,46.87
+5,Africa,2025-01-01,Humidity (%),56.9,56.9
+5,Africa,2025-02-01,Humidity (%),56.2,56.2
+5,Africa,2025-03-01,Humidity (%),64.16,64.16
+5,Africa,2025-04-01,Humidity (%),58.51,58.51
+5,Africa,2025-05-01,Humidity (%),57.1,57.1
+5,Africa,2025-06-01,Humidity (%),62.16,62.16
+5,Africa,2025-07-01,Humidity (%),66.91,66.91
+5,Africa,2025-08-01,Humidity (%),67.01,67.01
+5,Africa,2025-09-01,Humidity (%),59.63,59.63
+5,Africa,2025-10-01,Humidity (%),61.41,61.41
+5,Africa,2025-11-01,Humidity (%),61.59,61.59
+5,Africa,2025-12-01,Humidity (%),60.43,60.43
+6,Australia,2025-01-01,Humidity (%),64.96,64.96
+6,Australia,2025-02-01,Humidity (%),50.96,50.96
+6,Australia,2025-03-01,Humidity (%),52.04,52.04
+6,Australia,2025-04-01,Humidity (%),56.03,56.03
+6,Australia,2025-05-01,Humidity (%),59.17,59.17
+6,Australia,2025-06-01,Humidity (%),64.57,64.57
+6,Australia,2025-07-01,Humidity (%),68.07,68.07
+6,Australia,2025-08-01,Humidity (%),69.4,69.4
+6,Australia,2025-09-01,Humidity (%),63.22,63.22
+6,Australia,2025-10-01,Humidity (%),72.58,72.58
+6,Australia,2025-11-01,Humidity (%),57.82,57.82
+6,Australia,2025-12-01,Humidity (%),56.49,56.49
+7,Antarctica,2025-01-01,Humidity (%),54.32,54.32
+7,Antarctica,2025-02-01,Humidity (%),44.86,44.86
+7,Antarctica,2025-03-01,Humidity (%),66.0,66.0
+7,Antarctica,2025-04-01,Humidity (%),65.28,65.28
+7,Antarctica,2025-05-01,Humidity (%),65.99,65.99
+7,Antarctica,2025-06-01,Humidity (%),63.89,63.89
+7,Antarctica,2025-07-01,Humidity (%),70.09,70.09
+7,Antarctica,2025-08-01,Humidity (%),64.53,64.53
+7,Antarctica,2025-09-01,Humidity (%),71.72,71.72
+7,Antarctica,2025-10-01,Humidity (%),54.39,54.39
+7,Antarctica,2025-11-01,Humidity (%),73.01,73.01
+7,Antarctica,2025-12-01,Humidity (%),54.77,54.77
+1,Asia,2025-01-01,Air Quality Index (AQI),60.0,60.0
+1,Asia,2025-02-01,Air Quality Index (AQI),67.0,67.0
+1,Asia,2025-03-01,Air Quality Index (AQI),77.0,77.0
+1,Asia,2025-04-01,Air Quality Index (AQI),79.0,79.0
+1,Asia,2025-05-01,Air Quality Index (AQI),78.0,78.0
+1,Asia,2025-06-01,Air Quality Index (AQI),95.0,95.0
+1,Asia,2025-07-01,Air Quality Index (AQI),101.0,101.0
+1,Asia,2025-08-01,Air Quality Index (AQI),90.0,90.0
+1,Asia,2025-09-01,Air Quality Index (AQI),78.0,78.0
+1,Asia,2025-10-01,Air Quality Index (AQI),57.0,57.0
+1,Asia,2025-11-01,Air Quality Index (AQI),92.0,92.0
+1,Asia,2025-12-01,Air Quality Index (AQI),51.0,51.0
+2,Europe,2025-01-01,Air Quality Index (AQI),71.0,71.0
+2,Europe,2025-02-01,Air Quality Index (AQI),81.0,81.0
+2,Europe,2025-03-01,Air Quality Index (AQI),79.0,79.0
+2,Europe,2025-04-01,Air Quality Index (AQI),79.0,79.0
+2,Europe,2025-05-01,Air Quality Index (AQI),95.0,95.0
+2,Europe,2025-06-01,Air Quality Index (AQI),99.0,99.0
+2,Europe,2025-07-01,Air Quality Index (AQI),62.0,62.0
+2,Europe,2025-08-01,Air Quality Index (AQI),76.0,76.0
+2,Europe,2025-09-01,Air Quality Index (AQI),78.0,78.0
+2,Europe,2025-10-01,Air Quality Index (AQI),72.0,72.0
+2,Europe,2025-11-01,Air Quality Index (AQI),76.0,76.0
+2,Europe,2025-12-01,Air Quality Index (AQI),82.0,82.0
+3,North America,2025-01-01,Air Quality Index (AQI),82.0,82.0
+3,North America,2025-02-01,Air Quality Index (AQI),59.0,59.0
+3,North America,2025-03-01,Air Quality Index (AQI),88.0,88.0
+3,North America,2025-04-01,Air Quality Index (AQI),86.0,86.0
+3,North America,2025-05-01,Air Quality Index (AQI),64.0,64.0
+3,North America,2025-06-01,Air Quality Index (AQI),83.0,83.0
+3,North America,2025-07-01,Air Quality Index (AQI),79.0,79.0
+3,North America,2025-08-01,Air Quality Index (AQI),77.0,77.0
+3,North America,2025-09-01,Air Quality Index (AQI),114.0,114.0
+3,North America,2025-10-01,Air Quality Index (AQI),81.0,81.0
+3,North America,2025-11-01,Air Quality Index (AQI),67.0,67.0
+3,North America,2025-12-01,Air Quality Index (AQI),89.0,89.0
+4,South America,2025-01-01,Air Quality Index (AQI),103.0,103.0
+4,South America,2025-02-01,Air Quality Index (AQI),99.0,99.0
+4,South America,2025-03-01,Air Quality Index (AQI),82.0,82.0
+4,South America,2025-04-01,Air Quality Index (AQI),62.0,62.0
+4,South America,2025-05-01,Air Quality Index (AQI),81.0,81.0
+4,South America,2025-06-01,Air Quality Index (AQI),63.0,63.0
+4,South America,2025-07-01,Air Quality Index (AQI),68.0,68.0
+4,South America,2025-08-01,Air Quality Index (AQI),59.0,59.0
+4,South America,2025-09-01,Air Quality Index (AQI),81.0,81.0
+4,South America,2025-10-01,Air Quality Index (AQI),91.0,91.0
+4,South America,2025-11-01,Air Quality Index (AQI),80.0,80.0
+4,South America,2025-12-01,Air Quality Index (AQI),96.0,96.0
+5,Africa,2025-01-01,Air Quality Index (AQI),99.0,99.0
+5,Africa,2025-02-01,Air Quality Index (AQI),104.0,104.0
+5,Africa,2025-03-01,Air Quality Index (AQI),73.0,73.0
+5,Africa,2025-04-01,Air Quality Index (AQI),98.0,98.0
+5,Africa,2025-05-01,Air Quality Index (AQI),80.0,80.0
+5,Africa,2025-06-01,Air Quality Index (AQI),63.0,63.0
+5,Africa,2025-07-01,Air Quality Index (AQI),70.0,70.0
+5,Africa,2025-08-01,Air Quality Index (AQI),76.0,76.0
+5,Africa,2025-09-01,Air Quality Index (AQI),96.0,96.0
+5,Africa,2025-10-01,Air Quality Index (AQI),81.0,81.0
+5,Africa,2025-11-01,Air Quality Index (AQI),92.0,92.0
+5,Africa,2025-12-01,Air Quality Index (AQI),76.0,76.0
+6,Australia,2025-01-01,Air Quality Index (AQI),85.0,85.0
+6,Australia,2025-02-01,Air Quality Index (AQI),92.0,92.0
+6,Australia,2025-03-01,Air Quality Index (AQI),78.0,78.0
+6,Australia,2025-04-01,Air Quality Index (AQI),83.0,83.0
+6,Australia,2025-05-01,Air Quality Index (AQI),68.0,68.0
+6,Australia,2025-06-01,Air Quality Index (AQI),53.0,53.0
+6,Australia,2025-07-01,Air Quality Index (AQI),68.0,68.0
+6,Australia,2025-08-01,Air Quality Index (AQI),51.0,51.0
+6,Australia,2025-09-01,Air Quality Index (AQI),79.0,79.0
+6,Australia,2025-10-01,Air Quality Index (AQI),95.0,95.0
+6,Australia,2025-11-01,Air Quality Index (AQI),71.0,71.0
+6,Australia,2025-12-01,Air Quality Index (AQI),82.0,82.0
+7,Antarctica,2025-01-01,Air Quality Index (AQI),102.0,102.0
+7,Antarctica,2025-02-01,Air Quality Index (AQI),95.0,95.0
+7,Antarctica,2025-03-01,Air Quality Index (AQI),50.0,50.0
+7,Antarctica,2025-04-01,Air Quality Index (AQI),59.0,59.0
+7,Antarctica,2025-05-01,Air Quality Index (AQI),47.0,47.0
+7,Antarctica,2025-06-01,Air Quality Index (AQI),56.0,56.0
+7,Antarctica,2025-07-01,Air Quality Index (AQI),53.0,53.0
+7,Antarctica,2025-08-01,Air Quality Index (AQI),64.0,64.0
+7,Antarctica,2025-09-01,Air Quality Index (AQI),33.0,33.0
+7,Antarctica,2025-10-01,Air Quality Index (AQI),31.0,31.0
+7,Antarctica,2025-11-01,Air Quality Index (AQI),69.0,69.0
+7,Antarctica,2025-12-01,Air Quality Index (AQI),85.0,85.0
+1,Asia,2025-01-01,Soil Moisture (%),40.31,40.31
+1,Asia,2025-02-01,Soil Moisture (%),37.16,37.16
+1,Asia,2025-03-01,Soil Moisture (%),39.44,39.44
+1,Asia,2025-04-01,Soil Moisture (%),41.53,41.53
+1,Asia,2025-05-01,Soil Moisture (%),38.3,38.3
+1,Asia,2025-06-01,Soil Moisture (%),39.68,39.68
+1,Asia,2025-07-01,Soil Moisture (%),35.24,35.24
+1,Asia,2025-08-01,Soil Moisture (%),30.45,30.45
+1,Asia,2025-09-01,Soil Moisture (%),44.5,44.5
+1,Asia,2025-10-01,Soil Moisture (%),49.42,49.42
+1,Asia,2025-11-01,Soil Moisture (%),43.42,43.42
+1,Asia,2025-12-01,Soil Moisture (%),42.86,42.86
+2,Europe,2025-01-01,Soil Moisture (%),41.28,41.28
+2,Europe,2025-02-01,Soil Moisture (%),57.03,57.03
+2,Europe,2025-03-01,Soil Moisture (%),35.77,35.77
+2,Europe,2025-04-01,Soil Moisture (%),42.75,42.75
+2,Europe,2025-05-01,Soil Moisture (%),40.3,40.3
+2,Europe,2025-06-01,Soil Moisture (%),43.41,43.41
+2,Europe,2025-07-01,Soil Moisture (%),41.28,41.28
+2,Europe,2025-08-01,Soil Moisture (%),37.08,37.08
+2,Europe,2025-09-01,Soil Moisture (%),38.03,38.03
+2,Europe,2025-10-01,Soil Moisture (%),34.02,34.02
+2,Europe,2025-11-01,Soil Moisture (%),37.48,37.48
+2,Europe,2025-12-01,Soil Moisture (%),43.77,43.77
+3,North America,2025-01-01,Soil Moisture (%),32.24,32.24
+3,North America,2025-02-01,Soil Moisture (%),43.92,43.92
+3,North America,2025-03-01,Soil Moisture (%),45.64,45.64
+3,North America,2025-04-01,Soil Moisture (%),34.98,34.98
+3,North America,2025-05-01,Soil Moisture (%),47.98,47.98
+3,North America,2025-06-01,Soil Moisture (%),31.27,31.27
+3,North America,2025-07-01,Soil Moisture (%),34.84,34.84
+3,North America,2025-08-01,Soil Moisture (%),33.94,33.94
+3,North America,2025-09-01,Soil Moisture (%),39.16,39.16
+3,North America,2025-10-01,Soil Moisture (%),42.07,42.07
+3,North America,2025-11-01,Soil Moisture (%),42.04,42.04
+3,North America,2025-12-01,Soil Moisture (%),47.76,47.76
+4,South America,2025-01-01,Soil Moisture (%),36.06,36.06
+4,South America,2025-02-01,Soil Moisture (%),28.4,28.4
+4,South America,2025-03-01,Soil Moisture (%),33.98,33.98
+4,South America,2025-04-01,Soil Moisture (%),49.07,49.07
+4,South America,2025-05-01,Soil Moisture (%),40.18,40.18
+4,South America,2025-06-01,Soil Moisture (%),33.92,33.92
+4,South America,2025-07-01,Soil Moisture (%),44.14,44.14
+4,South America,2025-08-01,Soil Moisture (%),46.3,46.3
+4,South America,2025-09-01,Soil Moisture (%),48.46,48.46
+4,South America,2025-10-01,Soil Moisture (%),41.94,41.94
+4,South America,2025-11-01,Soil Moisture (%),43.45,43.45
+4,South America,2025-12-01,Soil Moisture (%),43.08,43.08
+5,Africa,2025-01-01,Soil Moisture (%),31.75,31.75
+5,Africa,2025-02-01,Soil Moisture (%),45.13,45.13
+5,Africa,2025-03-01,Soil Moisture (%),45.88,45.88
+5,Africa,2025-04-01,Soil Moisture (%),35.61,35.61
+5,Africa,2025-05-01,Soil Moisture (%),35.53,35.53
+5,Africa,2025-06-01,Soil Moisture (%),52.65,52.65
+5,Africa,2025-07-01,Soil Moisture (%),46.7,46.7
+5,Africa,2025-08-01,Soil Moisture (%),39.49,39.49
+5,Africa,2025-09-01,Soil Moisture (%),39.32,39.32
+5,Africa,2025-10-01,Soil Moisture (%),47.43,47.43
+5,Africa,2025-11-01,Soil Moisture (%),34.88,34.88
+5,Africa,2025-12-01,Soil Moisture (%),40.62,40.62
+6,Australia,2025-01-01,Soil Moisture (%),34.26,34.26
+6,Australia,2025-02-01,Soil Moisture (%),31.79,31.79
+6,Australia,2025-03-01,Soil Moisture (%),42.1,42.1
+6,Australia,2025-04-01,Soil Moisture (%),34.0,34.0
+6,Australia,2025-05-01,Soil Moisture (%),36.61,36.61
+6,Australia,2025-06-01,Soil Moisture (%),44.61,44.61
+6,Australia,2025-07-01,Soil Moisture (%),42.39,42.39
+6,Australia,2025-08-01,Soil Moisture (%),44.19,44.19
+6,Australia,2025-09-01,Soil Moisture (%),36.18,36.18
+6,Australia,2025-10-01,Soil Moisture (%),40.92,40.92
+6,Australia,2025-11-01,Soil Moisture (%),44.07,44.07
+6,Australia,2025-12-01,Soil Moisture (%),25.44,25.44
+7,Antarctica,2025-01-01,Soil Moisture (%),36.39,36.39
+7,Antarctica,2025-02-01,Soil Moisture (%),28.85,28.85
+7,Antarctica,2025-03-01,Soil Moisture (%),51.94,51.94
+7,Antarctica,2025-04-01,Soil Moisture (%),39.84,39.84
+7,Antarctica,2025-05-01,Soil Moisture (%),45.84,45.84
+7,Antarctica,2025-06-01,Soil Moisture (%),49.54,49.54
+7,Antarctica,2025-07-01,Soil Moisture (%),51.43,51.43
+7,Antarctica,2025-08-01,Soil Moisture (%),37.94,37.94
+7,Antarctica,2025-09-01,Soil Moisture (%),56.95,56.95
+7,Antarctica,2025-10-01,Soil Moisture (%),43.17,43.17
+7,Antarctica,2025-11-01,Soil Moisture (%),51.5,51.5
+7,Antarctica,2025-12-01,Soil Moisture (%),34.36,34.36
+1,Asia,2025-01-01,Particulate Matter 2.5 (µg/m³),32.22,32.22
+1,Asia,2025-02-01,Particulate Matter 2.5 (µg/m³),29.54,29.54
+1,Asia,2025-03-01,Particulate Matter 2.5 (µg/m³),34.45,34.45
+1,Asia,2025-04-01,Particulate Matter 2.5 (µg/m³),34.94,34.94
+1,Asia,2025-05-01,Particulate Matter 2.5 (µg/m³),32.13,32.13
+1,Asia,2025-06-01,Particulate Matter 2.5 (µg/m³),41.24,41.24
+1,Asia,2025-07-01,Particulate Matter 2.5 (µg/m³),33.89,33.89
+1,Asia,2025-08-01,Particulate Matter 2.5 (µg/m³),42.89,42.89
+1,Asia,2025-09-01,Particulate Matter 2.5 (µg/m³),33.17,33.17
+1,Asia,2025-10-01,Particulate Matter 2.5 (µg/m³),41.03,41.03
+1,Asia,2025-11-01,Particulate Matter 2.5 (µg/m³),43.89,43.89
+1,Asia,2025-12-01,Particulate Matter 2.5 (µg/m³),21.55,21.55
+2,Europe,2025-01-01,Particulate Matter 2.5 (µg/m³),27.87,27.87
+2,Europe,2025-02-01,Particulate Matter 2.5 (µg/m³),43.08,43.08
+2,Europe,2025-03-01,Particulate Matter 2.5 (µg/m³),38.0,38.0
+2,Europe,2025-04-01,Particulate Matter 2.5 (µg/m³),36.81,36.81
+2,Europe,2025-05-01,Particulate Matter 2.5 (µg/m³),26.96,26.96
+2,Europe,2025-06-01,Particulate Matter 2.5 (µg/m³),38.83,38.83
+2,Europe,2025-07-01,Particulate Matter 2.5 (µg/m³),33.65,33.65
+2,Europe,2025-08-01,Particulate Matter 2.5 (µg/m³),36.83,36.83
+2,Europe,2025-09-01,Particulate Matter 2.5 (µg/m³),36.24,36.24
+2,Europe,2025-10-01,Particulate Matter 2.5 (µg/m³),35.56,35.56
+2,Europe,2025-11-01,Particulate Matter 2.5 (µg/m³),45.33,45.33
+2,Europe,2025-12-01,Particulate Matter 2.5 (µg/m³),47.27,47.27
+3,North America,2025-01-01,Particulate Matter 2.5 (µg/m³),34.27,34.27
+3,North America,2025-02-01,Particulate Matter 2.5 (µg/m³),33.08,33.08
+3,North America,2025-03-01,Particulate Matter 2.5 (µg/m³),32.65,32.65
+3,North America,2025-04-01,Particulate Matter 2.5 (µg/m³),32.98,32.98
+3,North America,2025-05-01,Particulate Matter 2.5 (µg/m³),33.7,33.7
+3,North America,2025-06-01,Particulate Matter 2.5 (µg/m³),31.31,31.31
+3,North America,2025-07-01,Particulate Matter 2.5 (µg/m³),28.25,28.25
+3,North America,2025-08-01,Particulate Matter 2.5 (µg/m³),28.32,28.32
+3,North America,2025-09-01,Particulate Matter 2.5 (µg/m³),34.62,34.62
+3,North America,2025-10-01,Particulate Matter 2.5 (µg/m³),39.42,39.42
+3,North America,2025-11-01,Particulate Matter 2.5 (µg/m³),38.95,38.95
+3,North America,2025-12-01,Particulate Matter 2.5 (µg/m³),34.07,34.07
+4,South America,2025-01-01,Particulate Matter 2.5 (µg/m³),35.86,35.86
+4,South America,2025-02-01,Particulate Matter 2.5 (µg/m³),39.74,39.74
+4,South America,2025-03-01,Particulate Matter 2.5 (µg/m³),30.77,30.77
+4,South America,2025-04-01,Particulate Matter 2.5 (µg/m³),35.56,35.56
+4,South America,2025-05-01,Particulate Matter 2.5 (µg/m³),30.16,30.16
+4,South America,2025-06-01,Particulate Matter 2.5 (µg/m³),24.67,24.67
+4,South America,2025-07-01,Particulate Matter 2.5 (µg/m³),33.91,33.91
+4,South America,2025-08-01,Particulate Matter 2.5 (µg/m³),39.83,39.83
+4,South America,2025-09-01,Particulate Matter 2.5 (µg/m³),31.7,31.7
+4,South America,2025-10-01,Particulate Matter 2.5 (µg/m³),39.58,39.58
+4,South America,2025-11-01,Particulate Matter 2.5 (µg/m³),36.12,36.12
+4,South America,2025-12-01,Particulate Matter 2.5 (µg/m³),40.78,40.78
+5,Africa,2025-01-01,Particulate Matter 2.5 (µg/m³),34.31,34.31
+5,Africa,2025-02-01,Particulate Matter 2.5 (µg/m³),39.29,39.29
+5,Africa,2025-03-01,Particulate Matter 2.5 (µg/m³),40.7,40.7
+5,Africa,2025-04-01,Particulate Matter 2.5 (µg/m³),47.51,47.51
+5,Africa,2025-05-01,Particulate Matter 2.5 (µg/m³),34.1,34.1
+5,Africa,2025-06-01,Particulate Matter 2.5 (µg/m³),39.16,39.16
+5,Africa,2025-07-01,Particulate Matter 2.5 (µg/m³),29.16,29.16
+5,Africa,2025-08-01,Particulate Matter 2.5 (µg/m³),40.63,40.63
+5,Africa,2025-09-01,Particulate Matter 2.5 (µg/m³),39.84,39.84
+5,Africa,2025-10-01,Particulate Matter 2.5 (µg/m³),43.38,43.38
+5,Africa,2025-11-01,Particulate Matter 2.5 (µg/m³),34.57,34.57
+5,Africa,2025-12-01,Particulate Matter 2.5 (µg/m³),31.07,31.07
+6,Australia,2025-01-01,Particulate Matter 2.5 (µg/m³),38.69,38.69
+6,Australia,2025-02-01,Particulate Matter 2.5 (µg/m³),31.74,31.74
+6,Australia,2025-03-01,Particulate Matter 2.5 (µg/m³),42.05,42.05
+6,Australia,2025-04-01,Particulate Matter 2.5 (µg/m³),34.08,34.08
+6,Australia,2025-05-01,Particulate Matter 2.5 (µg/m³),36.73,36.73
+6,Australia,2025-06-01,Particulate Matter 2.5 (µg/m³),40.37,40.37
+6,Australia,2025-07-01,Particulate Matter 2.5 (µg/m³),30.92,30.92
+6,Australia,2025-08-01,Particulate Matter 2.5 (µg/m³),24.14,24.14
+6,Australia,2025-09-01,Particulate Matter 2.5 (µg/m³),29.19,29.19
+6,Australia,2025-10-01,Particulate Matter 2.5 (µg/m³),45.47,45.47
+6,Australia,2025-11-01,Particulate Matter 2.5 (µg/m³),35.26,35.26
+6,Australia,2025-12-01,Particulate Matter 2.5 (µg/m³),32.85,32.85
+7,Antarctica,2025-01-01,Particulate Matter 2.5 (µg/m³),41.45,41.45
+7,Antarctica,2025-02-01,Particulate Matter 2.5 (µg/m³),40.13,40.13
+7,Antarctica,2025-03-01,Particulate Matter 2.5 (µg/m³),37.69,37.69
+7,Antarctica,2025-04-01,Particulate Matter 2.5 (µg/m³),29.86,29.86
+7,Antarctica,2025-05-01,Particulate Matter 2.5 (µg/m³),31.83,31.83
+7,Antarctica,2025-06-01,Particulate Matter 2.5 (µg/m³),35.8,35.8
+7,Antarctica,2025-07-01,Particulate Matter 2.5 (µg/m³),34.54,34.54
+7,Antarctica,2025-08-01,Particulate Matter 2.5 (µg/m³),34.09,34.09
+7,Antarctica,2025-09-01,Particulate Matter 2.5 (µg/m³),39.14,39.14
+7,Antarctica,2025-10-01,Particulate Matter 2.5 (µg/m³),34.34,34.34
+7,Antarctica,2025-11-01,Particulate Matter 2.5 (µg/m³),38.46,38.46
+7,Antarctica,2025-12-01,Particulate Matter 2.5 (µg/m³),38.73,38.73
+1,Asia,2025-01-01,Particulate Matter 10 (µg/m³),35.57,35.57
+1,Asia,2025-02-01,Particulate Matter 10 (µg/m³),38.83,38.83
+1,Asia,2025-03-01,Particulate Matter 10 (µg/m³),37.23,37.23
+1,Asia,2025-04-01,Particulate Matter 10 (µg/m³),52.68,52.68
+1,Asia,2025-05-01,Particulate Matter 10 (µg/m³),52.42,52.42
+1,Asia,2025-06-01,Particulate Matter 10 (µg/m³),38.28,38.28
+1,Asia,2025-07-01,Particulate Matter 10 (µg/m³),59.81,59.81
+1,Asia,2025-08-01,Particulate Matter 10 (µg/m³),54.48,54.48
+1,Asia,2025-09-01,Particulate Matter 10 (µg/m³),60.52,60.52
+1,Asia,2025-10-01,Particulate Matter 10 (µg/m³),34.26,34.26
+1,Asia,2025-11-01,Particulate Matter 10 (µg/m³),52.74,52.74
+1,Asia,2025-12-01,Particulate Matter 10 (µg/m³),47.66,47.66
+2,Europe,2025-01-01,Particulate Matter 10 (µg/m³),38.49,38.49
+2,Europe,2025-02-01,Particulate Matter 10 (µg/m³),47.14,47.14
+2,Europe,2025-03-01,Particulate Matter 10 (µg/m³),46.32,46.32
+2,Europe,2025-04-01,Particulate Matter 10 (µg/m³),62.4,62.4
+2,Europe,2025-05-01,Particulate Matter 10 (µg/m³),53.33,53.33
+2,Europe,2025-06-01,Particulate Matter 10 (µg/m³),51.57,51.57
+2,Europe,2025-07-01,Particulate Matter 10 (µg/m³),48.37,48.37
+2,Europe,2025-08-01,Particulate Matter 10 (µg/m³),65.41,65.41
+2,Europe,2025-09-01,Particulate Matter 10 (µg/m³),54.81,54.81
+2,Europe,2025-10-01,Particulate Matter 10 (µg/m³),48.63,48.63
+2,Europe,2025-11-01,Particulate Matter 10 (µg/m³),47.66,47.66
+2,Europe,2025-12-01,Particulate Matter 10 (µg/m³),58.18,58.18
+3,North America,2025-01-01,Particulate Matter 10 (µg/m³),50.02,50.02
+3,North America,2025-02-01,Particulate Matter 10 (µg/m³),43.27,43.27
+3,North America,2025-03-01,Particulate Matter 10 (µg/m³),66.6,66.6
+3,North America,2025-04-01,Particulate Matter 10 (µg/m³),58.72,58.72
+3,North America,2025-05-01,Particulate Matter 10 (µg/m³),48.49,48.49
+3,North America,2025-06-01,Particulate Matter 10 (µg/m³),49.8,49.8
+3,North America,2025-07-01,Particulate Matter 10 (µg/m³),45.62,45.62
+3,North America,2025-08-01,Particulate Matter 10 (µg/m³),44.78,44.78
+3,North America,2025-09-01,Particulate Matter 10 (µg/m³),49.23,49.23
+3,North America,2025-10-01,Particulate Matter 10 (µg/m³),38.76,38.76
+3,North America,2025-11-01,Particulate Matter 10 (µg/m³),49.06,49.06
+3,North America,2025-12-01,Particulate Matter 10 (µg/m³),53.72,53.72
+4,South America,2025-01-01,Particulate Matter 10 (µg/m³),53.88,53.88
+4,South America,2025-02-01,Particulate Matter 10 (µg/m³),41.47,41.47
+4,South America,2025-03-01,Particulate Matter 10 (µg/m³),55.08,55.08
+4,South America,2025-04-01,Particulate Matter 10 (µg/m³),47.39,47.39
+4,South America,2025-05-01,Particulate Matter 10 (µg/m³),44.91,44.91
+4,South America,2025-06-01,Particulate Matter 10 (µg/m³),46.02,46.02
+4,South America,2025-07-01,Particulate Matter 10 (µg/m³),50.5,50.5
+4,South America,2025-08-01,Particulate Matter 10 (µg/m³),46.23,46.23
+4,South America,2025-09-01,Particulate Matter 10 (µg/m³),45.72,45.72
+4,South America,2025-10-01,Particulate Matter 10 (µg/m³),49.64,49.64
+4,South America,2025-11-01,Particulate Matter 10 (µg/m³),48.23,48.23
+4,South America,2025-12-01,Particulate Matter 10 (µg/m³),54.88,54.88
+5,Africa,2025-01-01,Particulate Matter 10 (µg/m³),60.11,60.11
+5,Africa,2025-02-01,Particulate Matter 10 (µg/m³),57.85,57.85
+5,Africa,2025-03-01,Particulate Matter 10 (µg/m³),52.69,52.69
+5,Africa,2025-04-01,Particulate Matter 10 (µg/m³),38.82,38.82
+5,Africa,2025-05-01,Particulate Matter 10 (µg/m³),44.93,44.93
+5,Africa,2025-06-01,Particulate Matter 10 (µg/m³),60.34,60.34
+5,Africa,2025-07-01,Particulate Matter 10 (µg/m³),52.17,52.17
+5,Africa,2025-08-01,Particulate Matter 10 (µg/m³),50.0,50.0
+5,Africa,2025-09-01,Particulate Matter 10 (µg/m³),40.02,40.02
+5,Africa,2025-10-01,Particulate Matter 10 (µg/m³),51.84,51.84
+5,Africa,2025-11-01,Particulate Matter 10 (µg/m³),42.87,42.87
+5,Africa,2025-12-01,Particulate Matter 10 (µg/m³),39.08,39.08
+6,Australia,2025-01-01,Particulate Matter 10 (µg/m³),49.49,49.49
+6,Australia,2025-02-01,Particulate Matter 10 (µg/m³),58.29,58.29
+6,Australia,2025-03-01,Particulate Matter 10 (µg/m³),50.75,50.75
+6,Australia,2025-04-01,Particulate Matter 10 (µg/m³),50.99,50.99
+6,Australia,2025-05-01,Particulate Matter 10 (µg/m³),49.7,49.7
+6,Australia,2025-06-01,Particulate Matter 10 (µg/m³),47.0,47.0
+6,Australia,2025-07-01,Particulate Matter 10 (µg/m³),43.5,43.5
+6,Australia,2025-08-01,Particulate Matter 10 (µg/m³),42.54,42.54
+6,Australia,2025-09-01,Particulate Matter 10 (µg/m³),43.7,43.7
+6,Australia,2025-10-01,Particulate Matter 10 (µg/m³),50.9,50.9
+6,Australia,2025-11-01,Particulate Matter 10 (µg/m³),42.3,42.3
+6,Australia,2025-12-01,Particulate Matter 10 (µg/m³),46.0,46.0
+7,Antarctica,2025-01-01,Particulate Matter 10 (µg/m³),54.62,54.62
+7,Antarctica,2025-02-01,Particulate Matter 10 (µg/m³),59.08,59.08
+7,Antarctica,2025-03-01,Particulate Matter 10 (µg/m³),46.73,46.73
+7,Antarctica,2025-04-01,Particulate Matter 10 (µg/m³),44.98,44.98
+7,Antarctica,2025-05-01,Particulate Matter 10 (µg/m³),40.58,40.58
+7,Antarctica,2025-06-01,Particulate Matter 10 (µg/m³),37.77,37.77
+7,Antarctica,2025-07-01,Particulate Matter 10 (µg/m³),40.4,40.4
+7,Antarctica,2025-08-01,Particulate Matter 10 (µg/m³),47.02,47.02
+7,Antarctica,2025-09-01,Particulate Matter 10 (µg/m³),50.11,50.11
+7,Antarctica,2025-10-01,Particulate Matter 10 (µg/m³),34.49,34.49
+7,Antarctica,2025-11-01,Particulate Matter 10 (µg/m³),44.72,44.72
+7,Antarctica,2025-12-01,Particulate Matter 10 (µg/m³),64.8,64.8
+1,Asia,2025-01-01,Ozone Concentration (ppm),0.0301,0.0301
+1,Asia,2025-02-01,Ozone Concentration (ppm),0.015,0.015
+1,Asia,2025-03-01,Ozone Concentration (ppm),0.031,0.031
+1,Asia,2025-04-01,Ozone Concentration (ppm),0.0335,0.0335
+1,Asia,2025-05-01,Ozone Concentration (ppm),0.0291,0.0291
+1,Asia,2025-06-01,Ozone Concentration (ppm),0.034,0.034
+1,Asia,2025-07-01,Ozone Concentration (ppm),0.0343,0.0343
+1,Asia,2025-08-01,Ozone Concentration (ppm),0.0376,0.0376
+1,Asia,2025-09-01,Ozone Concentration (ppm),0.0356,0.0356
+1,Asia,2025-10-01,Ozone Concentration (ppm),0.028,0.028
+1,Asia,2025-11-01,Ozone Concentration (ppm),0.0367,0.0367
+1,Asia,2025-12-01,Ozone Concentration (ppm),0.0198,0.0198
+2,Europe,2025-01-01,Ozone Concentration (ppm),0.0237,0.0237
+2,Europe,2025-02-01,Ozone Concentration (ppm),0.0261,0.0261
+2,Europe,2025-03-01,Ozone Concentration (ppm),0.031,0.031
+2,Europe,2025-04-01,Ozone Concentration (ppm),0.0265,0.0265
+2,Europe,2025-05-01,Ozone Concentration (ppm),0.0318,0.0318
+2,Europe,2025-06-01,Ozone Concentration (ppm),0.0394,0.0394
+2,Europe,2025-07-01,Ozone Concentration (ppm),0.0417,0.0417
+2,Europe,2025-08-01,Ozone Concentration (ppm),0.0261,0.0261
+2,Europe,2025-09-01,Ozone Concentration (ppm),0.0275,0.0275
+2,Europe,2025-10-01,Ozone Concentration (ppm),0.0401,0.0401
+2,Europe,2025-11-01,Ozone Concentration (ppm),0.0316,0.0316
+2,Europe,2025-12-01,Ozone Concentration (ppm),0.0251,0.0251
+3,North America,2025-01-01,Ozone Concentration (ppm),0.0284,0.0284
+3,North America,2025-02-01,Ozone Concentration (ppm),0.0192,0.0192
+3,North America,2025-03-01,Ozone Concentration (ppm),0.025,0.025
+3,North America,2025-04-01,Ozone Concentration (ppm),0.0309,0.0309
+3,North America,2025-05-01,Ozone Concentration (ppm),0.0293,0.0293
+3,North America,2025-06-01,Ozone Concentration (ppm),0.0399,0.0399
+3,North America,2025-07-01,Ozone Concentration (ppm),0.04,0.04
+3,North America,2025-08-01,Ozone Concentration (ppm),0.0247,0.0247
+3,North America,2025-09-01,Ozone Concentration (ppm),0.0348,0.0348
+3,North America,2025-10-01,Ozone Concentration (ppm),0.0315,0.0315
+3,North America,2025-11-01,Ozone Concentration (ppm),0.0311,0.0311
+3,North America,2025-12-01,Ozone Concentration (ppm),0.0313,0.0313
+4,South America,2025-01-01,Ozone Concentration (ppm),0.0345,0.0345
+4,South America,2025-02-01,Ozone Concentration (ppm),0.0285,0.0285
+4,South America,2025-03-01,Ozone Concentration (ppm),0.0234,0.0234
+4,South America,2025-04-01,Ozone Concentration (ppm),0.0295,0.0295
+4,South America,2025-05-01,Ozone Concentration (ppm),0.0252,0.0252
+4,South America,2025-06-01,Ozone Concentration (ppm),0.0352,0.0352
+4,South America,2025-07-01,Ozone Concentration (ppm),0.0241,0.0241
+4,South America,2025-08-01,Ozone Concentration (ppm),0.031,0.031
+4,South America,2025-09-01,Ozone Concentration (ppm),0.0184,0.0184
+4,South America,2025-10-01,Ozone Concentration (ppm),0.035,0.035
+4,South America,2025-11-01,Ozone Concentration (ppm),0.0291,0.0291
+4,South America,2025-12-01,Ozone Concentration (ppm),0.0375,0.0375
+5,Africa,2025-01-01,Ozone Concentration (ppm),0.0346,0.0346
+5,Africa,2025-02-01,Ozone Concentration (ppm),0.0262,0.0262
+5,Africa,2025-03-01,Ozone Concentration (ppm),0.0395,0.0395
+5,Africa,2025-04-01,Ozone Concentration (ppm),0.0344,0.0344
+5,Africa,2025-05-01,Ozone Concentration (ppm),0.0415,0.0415
+5,Africa,2025-06-01,Ozone Concentration (ppm),0.0155,0.0155
+5,Africa,2025-07-01,Ozone Concentration (ppm),0.0254,0.0254
+5,Africa,2025-08-01,Ozone Concentration (ppm),0.0286,0.0286
+5,Africa,2025-09-01,Ozone Concentration (ppm),0.0329,0.0329
+5,Africa,2025-10-01,Ozone Concentration (ppm),0.03,0.03
+5,Africa,2025-11-01,Ozone Concentration (ppm),0.0246,0.0246
+5,Africa,2025-12-01,Ozone Concentration (ppm),0.0343,0.0343
+6,Australia,2025-01-01,Ozone Concentration (ppm),0.0318,0.0318
+6,Australia,2025-02-01,Ozone Concentration (ppm),0.0408,0.0408
+6,Australia,2025-03-01,Ozone Concentration (ppm),0.0222,0.0222
+6,Australia,2025-04-01,Ozone Concentration (ppm),0.0232,0.0232
+6,Australia,2025-05-01,Ozone Concentration (ppm),0.0259,0.0259
+6,Australia,2025-06-01,Ozone Concentration (ppm),0.0195,0.0195
+6,Australia,2025-07-01,Ozone Concentration (ppm),0.016,0.016
+6,Australia,2025-08-01,Ozone Concentration (ppm),0.0209,0.0209
+6,Australia,2025-09-01,Ozone Concentration (ppm),0.0303,0.0303
+6,Australia,2025-10-01,Ozone Concentration (ppm),0.0389,0.0389
+6,Australia,2025-11-01,Ozone Concentration (ppm),0.0345,0.0345
+6,Australia,2025-12-01,Ozone Concentration (ppm),0.0393,0.0393
+7,Antarctica,2025-01-01,Ozone Concentration (ppm),0.0453,0.0453
+7,Antarctica,2025-02-01,Ozone Concentration (ppm),0.0404,0.0404
+7,Antarctica,2025-03-01,Ozone Concentration (ppm),0.0188,0.0188
+7,Antarctica,2025-04-01,Ozone Concentration (ppm),0.0256,0.0256
+7,Antarctica,2025-05-01,Ozone Concentration (ppm),0.0247,0.0247
+7,Antarctica,2025-06-01,Ozone Concentration (ppm),0.0126,0.0126
+7,Antarctica,2025-07-01,Ozone Concentration (ppm),0.0146,0.0146
+7,Antarctica,2025-08-01,Ozone Concentration (ppm),0.0186,0.0186
+7,Antarctica,2025-09-01,Ozone Concentration (ppm),0.0067,0.0067
+7,Antarctica,2025-10-01,Ozone Concentration (ppm),0.0185,0.0185
+7,Antarctica,2025-11-01,Ozone Concentration (ppm),0.0239,0.0239
+7,Antarctica,2025-12-01,Ozone Concentration (ppm),0.045,0.045
+1,Asia,2025-01-01,Nitrogen Dioxide (ppm),0.0191,0.0191
+1,Asia,2025-02-01,Nitrogen Dioxide (ppm),0.0185,0.0185
+1,Asia,2025-03-01,Nitrogen Dioxide (ppm),0.0214,0.0214
+1,Asia,2025-04-01,Nitrogen Dioxide (ppm),0.0305,0.0305
+1,Asia,2025-05-01,Nitrogen Dioxide (ppm),0.0244,0.0244
+1,Asia,2025-06-01,Nitrogen Dioxide (ppm),0.0199,0.0199
+1,Asia,2025-07-01,Nitrogen Dioxide (ppm),0.0236,0.0236
+1,Asia,2025-08-01,Nitrogen Dioxide (ppm),0.0159,0.0159
+1,Asia,2025-09-01,Nitrogen Dioxide (ppm),0.018,0.018
+1,Asia,2025-10-01,Nitrogen Dioxide (ppm),0.0251,0.0251
+1,Asia,2025-11-01,Nitrogen Dioxide (ppm),0.0215,0.0215
+1,Asia,2025-12-01,Nitrogen Dioxide (ppm),0.024,0.024
+2,Europe,2025-01-01,Nitrogen Dioxide (ppm),0.0198,0.0198
+2,Europe,2025-02-01,Nitrogen Dioxide (ppm),0.025,0.025
+2,Europe,2025-03-01,Nitrogen Dioxide (ppm),0.0209,0.0209
+2,Europe,2025-04-01,Nitrogen Dioxide (ppm),0.0242,0.0242
+2,Europe,2025-05-01,Nitrogen Dioxide (ppm),0.0192,0.0192
+2,Europe,2025-06-01,Nitrogen Dioxide (ppm),0.0193,0.0193
+2,Europe,2025-07-01,Nitrogen Dioxide (ppm),0.0187,0.0187
+2,Europe,2025-08-01,Nitrogen Dioxide (ppm),0.0211,0.0211
+2,Europe,2025-09-01,Nitrogen Dioxide (ppm),0.0227,0.0227
+2,Europe,2025-10-01,Nitrogen Dioxide (ppm),0.0208,0.0208
+2,Europe,2025-11-01,Nitrogen Dioxide (ppm),0.0211,0.0211
+2,Europe,2025-12-01,Nitrogen Dioxide (ppm),0.0233,0.0233
+3,North America,2025-01-01,Nitrogen Dioxide (ppm),0.0211,0.0211
+3,North America,2025-02-01,Nitrogen Dioxide (ppm),0.018,0.018
+3,North America,2025-03-01,Nitrogen Dioxide (ppm),0.0225,0.0225
+3,North America,2025-04-01,Nitrogen Dioxide (ppm),0.0144,0.0144
+3,North America,2025-05-01,Nitrogen Dioxide (ppm),0.0187,0.0187
+3,North America,2025-06-01,Nitrogen Dioxide (ppm),0.0171,0.0171
+3,North America,2025-07-01,Nitrogen Dioxide (ppm),0.0192,0.0192
+3,North America,2025-08-01,Nitrogen Dioxide (ppm),0.0169,0.0169
+3,North America,2025-09-01,Nitrogen Dioxide (ppm),0.021,0.021
+3,North America,2025-10-01,Nitrogen Dioxide (ppm),0.0195,0.0195
+3,North America,2025-11-01,Nitrogen Dioxide (ppm),0.0178,0.0178
+3,North America,2025-12-01,Nitrogen Dioxide (ppm),0.0166,0.0166
+4,South America,2025-01-01,Nitrogen Dioxide (ppm),0.024,0.024
+4,South America,2025-02-01,Nitrogen Dioxide (ppm),0.0233,0.0233
+4,South America,2025-03-01,Nitrogen Dioxide (ppm),0.0207,0.0207
+4,South America,2025-04-01,Nitrogen Dioxide (ppm),0.0234,0.0234
+4,South America,2025-05-01,Nitrogen Dioxide (ppm),0.0153,0.0153
+4,South America,2025-06-01,Nitrogen Dioxide (ppm),0.0211,0.0211
+4,South America,2025-07-01,Nitrogen Dioxide (ppm),0.0203,0.0203
+4,South America,2025-08-01,Nitrogen Dioxide (ppm),0.0177,0.0177
+4,South America,2025-09-01,Nitrogen Dioxide (ppm),0.0195,0.0195
+4,South America,2025-10-01,Nitrogen Dioxide (ppm),0.0177,0.0177
+4,South America,2025-11-01,Nitrogen Dioxide (ppm),0.0197,0.0197
+4,South America,2025-12-01,Nitrogen Dioxide (ppm),0.0179,0.0179
+5,Africa,2025-01-01,Nitrogen Dioxide (ppm),0.0201,0.0201
+5,Africa,2025-02-01,Nitrogen Dioxide (ppm),0.0232,0.0232
+5,Africa,2025-03-01,Nitrogen Dioxide (ppm),0.0252,0.0252
+5,Africa,2025-04-01,Nitrogen Dioxide (ppm),0.0228,0.0228
+5,Africa,2025-05-01,Nitrogen Dioxide (ppm),0.0189,0.0189
+5,Africa,2025-06-01,Nitrogen Dioxide (ppm),0.0193,0.0193
+5,Africa,2025-07-01,Nitrogen Dioxide (ppm),0.0208,0.0208
+5,Africa,2025-08-01,Nitrogen Dioxide (ppm),0.0215,0.0215
+5,Africa,2025-09-01,Nitrogen Dioxide (ppm),0.0224,0.0224
+5,Africa,2025-10-01,Nitrogen Dioxide (ppm),0.0228,0.0228
+5,Africa,2025-11-01,Nitrogen Dioxide (ppm),0.0252,0.0252
+5,Africa,2025-12-01,Nitrogen Dioxide (ppm),0.0201,0.0201
+6,Australia,2025-01-01,Nitrogen Dioxide (ppm),0.0265,0.0265
+6,Australia,2025-02-01,Nitrogen Dioxide (ppm),0.0194,0.0194
+6,Australia,2025-03-01,Nitrogen Dioxide (ppm),0.0151,0.0151
+6,Australia,2025-04-01,Nitrogen Dioxide (ppm),0.022,0.022
+6,Australia,2025-05-01,Nitrogen Dioxide (ppm),0.0212,0.0212
+6,Australia,2025-06-01,Nitrogen Dioxide (ppm),0.0199,0.0199
+6,Australia,2025-07-01,Nitrogen Dioxide (ppm),0.0157,0.0157
+6,Australia,2025-08-01,Nitrogen Dioxide (ppm),0.0159,0.0159
+6,Australia,2025-09-01,Nitrogen Dioxide (ppm),0.0222,0.0222
+6,Australia,2025-10-01,Nitrogen Dioxide (ppm),0.0246,0.0246
+6,Australia,2025-11-01,Nitrogen Dioxide (ppm),0.0191,0.0191
+6,Australia,2025-12-01,Nitrogen Dioxide (ppm),0.0203,0.0203
+7,Antarctica,2025-01-01,Nitrogen Dioxide (ppm),0.0155,0.0155
+7,Antarctica,2025-02-01,Nitrogen Dioxide (ppm),0.0172,0.0172
+7,Antarctica,2025-03-01,Nitrogen Dioxide (ppm),0.0205,0.0205
+7,Antarctica,2025-04-01,Nitrogen Dioxide (ppm),0.0211,0.0211
+7,Antarctica,2025-05-01,Nitrogen Dioxide (ppm),0.0207,0.0207
+7,Antarctica,2025-06-01,Nitrogen Dioxide (ppm),0.0226,0.0226
+7,Antarctica,2025-07-01,Nitrogen Dioxide (ppm),0.0148,0.0148
+7,Antarctica,2025-08-01,Nitrogen Dioxide (ppm),0.0222,0.0222
+7,Antarctica,2025-09-01,Nitrogen Dioxide (ppm),0.0251,0.0251
+7,Antarctica,2025-10-01,Nitrogen Dioxide (ppm),0.0153,0.0153
+7,Antarctica,2025-11-01,Nitrogen Dioxide (ppm),0.0193,0.0193
+7,Antarctica,2025-12-01,Nitrogen Dioxide (ppm),0.0227,0.0227
+1,Asia,2025-01-01,Sulfur Dioxide (ppm),0.0145,0.0145
+1,Asia,2025-02-01,Sulfur Dioxide (ppm),0.0133,0.0133
+1,Asia,2025-03-01,Sulfur Dioxide (ppm),0.0142,0.0142
+1,Asia,2025-04-01,Sulfur Dioxide (ppm),0.016,0.016
+1,Asia,2025-05-01,Sulfur Dioxide (ppm),0.016,0.016
+1,Asia,2025-06-01,Sulfur Dioxide (ppm),0.0193,0.0193
+1,Asia,2025-07-01,Sulfur Dioxide (ppm),0.0146,0.0146
+1,Asia,2025-08-01,Sulfur Dioxide (ppm),0.0139,0.0139
+1,Asia,2025-09-01,Sulfur Dioxide (ppm),0.0149,0.0149
+1,Asia,2025-10-01,Sulfur Dioxide (ppm),0.0142,0.0142
+1,Asia,2025-11-01,Sulfur Dioxide (ppm),0.0144,0.0144
+1,Asia,2025-12-01,Sulfur Dioxide (ppm),0.0147,0.0147
+2,Europe,2025-01-01,Sulfur Dioxide (ppm),0.0113,0.0113
+2,Europe,2025-02-01,Sulfur Dioxide (ppm),0.0156,0.0156
+2,Europe,2025-03-01,Sulfur Dioxide (ppm),0.0139,0.0139
+2,Europe,2025-04-01,Sulfur Dioxide (ppm),0.0141,0.0141
+2,Europe,2025-05-01,Sulfur Dioxide (ppm),0.0143,0.0143
+2,Europe,2025-06-01,Sulfur Dioxide (ppm),0.015,0.015
+2,Europe,2025-07-01,Sulfur Dioxide (ppm),0.0195,0.0195
+2,Europe,2025-08-01,Sulfur Dioxide (ppm),0.0137,0.0137
+2,Europe,2025-09-01,Sulfur Dioxide (ppm),0.0164,0.0164
+2,Europe,2025-10-01,Sulfur Dioxide (ppm),0.0185,0.0185
+2,Europe,2025-11-01,Sulfur Dioxide (ppm),0.016,0.016
+2,Europe,2025-12-01,Sulfur Dioxide (ppm),0.0125,0.0125
+3,North America,2025-01-01,Sulfur Dioxide (ppm),0.0155,0.0155
+3,North America,2025-02-01,Sulfur Dioxide (ppm),0.018,0.018
+3,North America,2025-03-01,Sulfur Dioxide (ppm),0.0158,0.0158
+3,North America,2025-04-01,Sulfur Dioxide (ppm),0.0157,0.0157
+3,North America,2025-05-01,Sulfur Dioxide (ppm),0.0149,0.0149
+3,North America,2025-06-01,Sulfur Dioxide (ppm),0.0106,0.0106
+3,North America,2025-07-01,Sulfur Dioxide (ppm),0.0158,0.0158
+3,North America,2025-08-01,Sulfur Dioxide (ppm),0.0148,0.0148
+3,North America,2025-09-01,Sulfur Dioxide (ppm),0.0154,0.0154
+3,North America,2025-10-01,Sulfur Dioxide (ppm),0.0152,0.0152
+3,North America,2025-11-01,Sulfur Dioxide (ppm),0.0168,0.0168
+3,North America,2025-12-01,Sulfur Dioxide (ppm),0.0161,0.0161
+4,South America,2025-01-01,Sulfur Dioxide (ppm),0.0129,0.0129
+4,South America,2025-02-01,Sulfur Dioxide (ppm),0.0165,0.0165
+4,South America,2025-03-01,Sulfur Dioxide (ppm),0.0162,0.0162
+4,South America,2025-04-01,Sulfur Dioxide (ppm),0.0149,0.0149
+4,South America,2025-05-01,Sulfur Dioxide (ppm),0.0168,0.0168
+4,South America,2025-06-01,Sulfur Dioxide (ppm),0.0171,0.0171
+4,South America,2025-07-01,Sulfur Dioxide (ppm),0.0179,0.0179
+4,South America,2025-08-01,Sulfur Dioxide (ppm),0.0163,0.0163
+4,South America,2025-09-01,Sulfur Dioxide (ppm),0.0157,0.0157
+4,South America,2025-10-01,Sulfur Dioxide (ppm),0.016,0.016
+4,South America,2025-11-01,Sulfur Dioxide (ppm),0.0156,0.0156
+4,South America,2025-12-01,Sulfur Dioxide (ppm),0.0157,0.0157
+5,Africa,2025-01-01,Sulfur Dioxide (ppm),0.016,0.016
+5,Africa,2025-02-01,Sulfur Dioxide (ppm),0.0167,0.0167
+5,Africa,2025-03-01,Sulfur Dioxide (ppm),0.0166,0.0166
+5,Africa,2025-04-01,Sulfur Dioxide (ppm),0.0192,0.0192
+5,Africa,2025-05-01,Sulfur Dioxide (ppm),0.0151,0.0151
+5,Africa,2025-06-01,Sulfur Dioxide (ppm),0.0151,0.0151
+5,Africa,2025-07-01,Sulfur Dioxide (ppm),0.0131,0.0131
+5,Africa,2025-08-01,Sulfur Dioxide (ppm),0.0169,0.0169
+5,Africa,2025-09-01,Sulfur Dioxide (ppm),0.0137,0.0137
+5,Africa,2025-10-01,Sulfur Dioxide (ppm),0.0133,0.0133
+5,Africa,2025-11-01,Sulfur Dioxide (ppm),0.0162,0.0162
+5,Africa,2025-12-01,Sulfur Dioxide (ppm),0.0141,0.0141
+6,Australia,2025-01-01,Sulfur Dioxide (ppm),0.0135,0.0135
+6,Australia,2025-02-01,Sulfur Dioxide (ppm),0.0151,0.0151
+6,Australia,2025-03-01,Sulfur Dioxide (ppm),0.0175,0.0175
+6,Australia,2025-04-01,Sulfur Dioxide (ppm),0.0161,0.0161
+6,Australia,2025-05-01,Sulfur Dioxide (ppm),0.0155,0.0155
+6,Australia,2025-06-01,Sulfur Dioxide (ppm),0.0165,0.0165
+6,Australia,2025-07-01,Sulfur Dioxide (ppm),0.014,0.014
+6,Australia,2025-08-01,Sulfur Dioxide (ppm),0.0133,0.0133
+6,Australia,2025-09-01,Sulfur Dioxide (ppm),0.0135,0.0135
+6,Australia,2025-10-01,Sulfur Dioxide (ppm),0.0156,0.0156
+6,Australia,2025-11-01,Sulfur Dioxide (ppm),0.013,0.013
+6,Australia,2025-12-01,Sulfur Dioxide (ppm),0.0153,0.0153
+7,Antarctica,2025-01-01,Sulfur Dioxide (ppm),0.0127,0.0127
+7,Antarctica,2025-02-01,Sulfur Dioxide (ppm),0.0143,0.0143
+7,Antarctica,2025-03-01,Sulfur Dioxide (ppm),0.0157,0.0157
+7,Antarctica,2025-04-01,Sulfur Dioxide (ppm),0.0142,0.0142
+7,Antarctica,2025-05-01,Sulfur Dioxide (ppm),0.0146,0.0146
+7,Antarctica,2025-06-01,Sulfur Dioxide (ppm),0.0125,0.0125
+7,Antarctica,2025-07-01,Sulfur Dioxide (ppm),0.0154,0.0154
+7,Antarctica,2025-08-01,Sulfur Dioxide (ppm),0.0132,0.0132
+7,Antarctica,2025-09-01,Sulfur Dioxide (ppm),0.0132,0.0132
+7,Antarctica,2025-10-01,Sulfur Dioxide (ppm),0.0138,0.0138
+7,Antarctica,2025-11-01,Sulfur Dioxide (ppm),0.0171,0.0171
+7,Antarctica,2025-12-01,Sulfur Dioxide (ppm),0.0168,0.0168
+1,Asia,2025-01-01,Carbon Monoxide (ppm),0.62,0.62
+1,Asia,2025-02-01,Carbon Monoxide (ppm),0.69,0.69
+1,Asia,2025-03-01,Carbon Monoxide (ppm),0.73,0.73
+1,Asia,2025-04-01,Carbon Monoxide (ppm),0.76,0.76
+1,Asia,2025-05-01,Carbon Monoxide (ppm),0.67,0.67
+1,Asia,2025-06-01,Carbon Monoxide (ppm),0.67,0.67
+1,Asia,2025-07-01,Carbon Monoxide (ppm),0.73,0.73
+1,Asia,2025-08-01,Carbon Monoxide (ppm),0.74,0.74
+1,Asia,2025-09-01,Carbon Monoxide (ppm),0.72,0.72
+1,Asia,2025-10-01,Carbon Monoxide (ppm),0.68,0.68
+1,Asia,2025-11-01,Carbon Monoxide (ppm),0.73,0.73
+1,Asia,2025-12-01,Carbon Monoxide (ppm),0.75,0.75
+2,Europe,2025-01-01,Carbon Monoxide (ppm),0.68,0.68
+2,Europe,2025-02-01,Carbon Monoxide (ppm),0.51,0.51
+2,Europe,2025-03-01,Carbon Monoxide (ppm),0.75,0.75
+2,Europe,2025-04-01,Carbon Monoxide (ppm),0.7,0.7
+2,Europe,2025-05-01,Carbon Monoxide (ppm),0.75,0.75
+2,Europe,2025-06-01,Carbon Monoxide (ppm),0.69,0.69
+2,Europe,2025-07-01,Carbon Monoxide (ppm),0.71,0.71
+2,Europe,2025-08-01,Carbon Monoxide (ppm),0.73,0.73
+2,Europe,2025-09-01,Carbon Monoxide (ppm),0.76,0.76
+2,Europe,2025-10-01,Carbon Monoxide (ppm),0.65,0.65
+2,Europe,2025-11-01,Carbon Monoxide (ppm),0.71,0.71
+2,Europe,2025-12-01,Carbon Monoxide (ppm),0.68,0.68
+3,North America,2025-01-01,Carbon Monoxide (ppm),0.71,0.71
+3,North America,2025-02-01,Carbon Monoxide (ppm),0.75,0.75
+3,North America,2025-03-01,Carbon Monoxide (ppm),0.68,0.68
+3,North America,2025-04-01,Carbon Monoxide (ppm),0.69,0.69
+3,North America,2025-05-01,Carbon Monoxide (ppm),0.72,0.72
+3,North America,2025-06-01,Carbon Monoxide (ppm),0.68,0.68
+3,North America,2025-07-01,Carbon Monoxide (ppm),0.79,0.79
+3,North America,2025-08-01,Carbon Monoxide (ppm),0.63,0.63
+3,North America,2025-09-01,Carbon Monoxide (ppm),0.73,0.73
+3,North America,2025-10-01,Carbon Monoxide (ppm),0.74,0.74
+3,North America,2025-11-01,Carbon Monoxide (ppm),0.59,0.59
+3,North America,2025-12-01,Carbon Monoxide (ppm),0.66,0.66
+4,South America,2025-01-01,Carbon Monoxide (ppm),0.7,0.7
+4,South America,2025-02-01,Carbon Monoxide (ppm),0.65,0.65
+4,South America,2025-03-01,Carbon Monoxide (ppm),0.67,0.67
+4,South America,2025-04-01,Carbon Monoxide (ppm),0.69,0.69
+4,South America,2025-05-01,Carbon Monoxide (ppm),0.68,0.68
+4,South America,2025-06-01,Carbon Monoxide (ppm),0.66,0.66
+4,South America,2025-07-01,Carbon Monoxide (ppm),0.71,0.71
+4,South America,2025-08-01,Carbon Monoxide (ppm),0.73,0.73
+4,South America,2025-09-01,Carbon Monoxide (ppm),0.74,0.74
+4,South America,2025-10-01,Carbon Monoxide (ppm),0.63,0.63
+4,South America,2025-11-01,Carbon Monoxide (ppm),0.65,0.65
+4,South America,2025-12-01,Carbon Monoxide (ppm),0.75,0.75
+5,Africa,2025-01-01,Carbon Monoxide (ppm),0.71,0.71
+5,Africa,2025-02-01,Carbon Monoxide (ppm),0.65,0.65
+5,Africa,2025-03-01,Carbon Monoxide (ppm),0.63,0.63
+5,Africa,2025-04-01,Carbon Monoxide (ppm),0.67,0.67
+5,Africa,2025-05-01,Carbon Monoxide (ppm),0.73,0.73
+5,Africa,2025-06-01,Carbon Monoxide (ppm),0.74,0.74
+5,Africa,2025-07-01,Carbon Monoxide (ppm),0.66,0.66
+5,Africa,2025-08-01,Carbon Monoxide (ppm),0.69,0.69
+5,Africa,2025-09-01,Carbon Monoxide (ppm),0.77,0.77
+5,Africa,2025-10-01,Carbon Monoxide (ppm),0.71,0.71
+5,Africa,2025-11-01,Carbon Monoxide (ppm),0.66,0.66
+5,Africa,2025-12-01,Carbon Monoxide (ppm),0.74,0.74
+6,Australia,2025-01-01,Carbon Monoxide (ppm),0.69,0.69
+6,Australia,2025-02-01,Carbon Monoxide (ppm),0.65,0.65
+6,Australia,2025-03-01,Carbon Monoxide (ppm),0.67,0.67
+6,Australia,2025-04-01,Carbon Monoxide (ppm),0.81,0.81
+6,Australia,2025-05-01,Carbon Monoxide (ppm),0.71,0.71
+6,Australia,2025-06-01,Carbon Monoxide (ppm),0.67,0.67
+6,Australia,2025-07-01,Carbon Monoxide (ppm),0.78,0.78
+6,Australia,2025-08-01,Carbon Monoxide (ppm),0.68,0.68
+6,Australia,2025-09-01,Carbon Monoxide (ppm),0.63,0.63
+6,Australia,2025-10-01,Carbon Monoxide (ppm),0.73,0.73
+6,Australia,2025-11-01,Carbon Monoxide (ppm),0.7,0.7
+6,Australia,2025-12-01,Carbon Monoxide (ppm),0.73,0.73
+7,Antarctica,2025-01-01,Carbon Monoxide (ppm),0.75,0.75
+7,Antarctica,2025-02-01,Carbon Monoxide (ppm),0.7,0.7
+7,Antarctica,2025-03-01,Carbon Monoxide (ppm),0.66,0.66
+7,Antarctica,2025-04-01,Carbon Monoxide (ppm),0.73,0.73
+7,Antarctica,2025-05-01,Carbon Monoxide (ppm),0.69,0.69
+7,Antarctica,2025-06-01,Carbon Monoxide (ppm),0.68,0.68
+7,Antarctica,2025-07-01,Carbon Monoxide (ppm),0.7,0.7
+7,Antarctica,2025-08-01,Carbon Monoxide (ppm),0.6,0.6
+7,Antarctica,2025-09-01,Carbon Monoxide (ppm),0.77,0.77
+7,Antarctica,2025-10-01,Carbon Monoxide (ppm),0.72,0.72
+7,Antarctica,2025-11-01,Carbon Monoxide (ppm),0.65,0.65
+7,Antarctica,2025-12-01,Carbon Monoxide (ppm),0.65,0.65
